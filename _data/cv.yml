@@ -68,6 +68,22 @@ cv:
         start_date: 2012
         end_date: 2012
 
+Grants:
+      - company: National Science Foundation (NSF)
+        position: Co-Principal Investigator (Co-PI)
+        location: $459,000
+        start_date: 2024
+        end_date: 2026
+        summary: "Project Title or Description of the funded research program."
+
+      - company: Caterpillar
+        position: Principal Investigator (PI)
+        location: $86,000
+        start_date: 2023
+        end_date: 2024
+        summary: "Research focusing on economic modeling and business strategy."
+
+        
     Awards:
       - title: Nobel Prize in Physics
         authors:
