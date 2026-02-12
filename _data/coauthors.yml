@@ -6,13 +6,11 @@
   - firstname: ["Galip Kemal", "Galip", "G. K.", "G. Kemal"]
     url: https://sites.google.com/site/gozhan
 
-"lee_sunhyung":
-  - firstname: ["Sunhyung", "S."]
-    url: https://sunhyung.weebly.com/
-
-"lee_yoonsoo":
+"lee":
   - firstname: ["Yoonsoo", "Y."]
     url: https://scholar.google.com/citations?user=GBzjGN4AAAAJ&hl=en&oi=ao
+  - firstname: ["Sunhyung", "S."]
+    url: https://sunhyung.weebly.com/
 
 "hyun":
   - firstname: ["Jay", "J."]
@@ -34,13 +32,11 @@
   - firstname: ["Barry", "B."]
     url: https://scholar.google.com/citations?user=i2QWvNAAAAAJ&hl=en&oi=ao
 
-"kim_jun":
-  - firstname: ["Junyeob", "J."]
-    url: https://junyeobkim91.github.io/
-
-"kim_chan":
+"kim":
   - firstname: ["Chan", "C."]
     url: https://sites.google.com/view/chankimecon
+  - firstname: ["Junyeob", "J."]
+    url: https://junyeobkim91.github.io/
 
 "mehra":
   - firstname: ["Mishita", "M."]
