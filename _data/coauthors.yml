@@ -1,14 +1,18 @@
 "ghironi":
   - firstname: ["Fabio", "F.", "Fabio P.", "F. P."]
-    url: hhttps://faculty.washington.edu/ghiro/
+    url: https://faculty.washington.edu/ghiro/
 
 "ozhan":
-  - firstname: ["Galip Kemal", "Galoip", "G. K.", "G. Kemal"]
+  - firstname: ["Galip Kemal", "Galip", "G. K.", "G. Kemal"]
     url: https://sites.google.com/site/gozhan
 
-"lee":
+"lee_sun":
   - firstname: ["Sunhyung", "S."]
     url: https://sunhyung.weebly.com/
+
+"lee_yoon":
+  - firstname: ["Yoonsoo", "Y."]
+    url: https://scholar.google.com/citations?user=GBzjGN4AAAAJ&hl=en&oi=ao
 
 "hyun":
   - firstname: ["Jay", "J."]
@@ -30,11 +34,11 @@
   - firstname: ["Barry", "B."]
     url: https://scholar.google.com/citations?user=i2QWvNAAAAAJ&hl=en&oi=ao
 
-"kim":
+"kim_jun":
   - firstname: ["Junyeob", "J."]
     url: https://junyeobkim91.github.io/
 
-"kim":
+"kim_chan":
   - firstname: ["Chan", "C."]
     url: https://sites.google.com/view/chankimecon
 
@@ -46,10 +50,6 @@
   - firstname: ["Nahyeon", "N."]
     url: https://www.linkedin.com/in/nahyeonbak/
 
-"lee":
-  - firstname: ["Yoonsoo", "Y."]
-    url: https://scholar.google.com/citations?user=GBzjGN4AAAAJ&hl=en&oi=ao
-
 "coimbra":
   - firstname: ["Nuno", "N."]
     url: https://sites.google.com/site/ntcoimbra/
@@ -60,25 +60,20 @@
     
 "savagar":
   - firstname: ["A.", "Anthony"]
-    url: http://www.helenerey.eu/
+    url: https://www.asavagar.com/
     
- "yum":
+"yum":
   - firstname: ["Minchul", "M."]
     url: https://minchulyum.github.io/
     
- "cho":
+"cho":
   - firstname: ["Chanheung", "C."]
     url: https://chanheungcho.github.io/
    
- "Jeong":
+"jeong":
   - firstname: ["Hanbat", "H."]
     url: https://sites.google.com/site/hanbatjeongecon/
     
 "hong":
   - firstname: ["Gee Hee", "GeeHee", "Gee", "G.H."]
     url: https://sites.google.com/site/geeheehong/home
-
-    
-    
-    
-    
