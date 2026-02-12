@@ -2,16 +2,14 @@
 layout: about
 title: about
 permalink: /
-subtitle: Assistant Professor of Economics, NC State University
+subtitle: [kim.daisoon.kr@gmail.com](mailto:kim.daisoon.kr@gmail.com)
 
 profile:
   align: right
   image: daisoon_kim_500x500px.png
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p> Contact: <p>
-    <p> kim.daisoon.kr@gmail.com </p>
-    <p> mailto:dkim29@ncsu.edu </p>
+    <p> <p>
     
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
