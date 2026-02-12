@@ -83,10 +83,10 @@ cv:
         keywords: "International Economics, Macroeconomics, Industrial Organization"
       - name: Topics
         icon: fa-solid fa-tag
-        keywords: "Firm Resilience, Firm Dynamics, Business Cycles, Market Structure, Systemic Risk"
+        keywords: "Firm Resilience, Firm Dynamics, Business Cycles, Market Structure, Systemic Risk and Uncertainty, Spillover/Network Effects, Sanctions, Global Value Chains/Investment."
         
 Projects:
-      - name: Granular Data and Firm Dynamics (Isolating Synchronized Idiosyncratic Shocks)
+      - name: Granular Data and Firm Dynamics 
         summary: Aggregate Fluctuations from Firm Comovement
         highlights:
           - Data
