@@ -67,65 +67,7 @@ cv:
         location: Seojong, Korea
         start_date: 2012
         end_date: 2012
-
-    Awards:
-      - title: Max Planck Medal
-        authors:
-          - "German Physical Society"
-        date: 2029
-        awarder: German Physical Society
-        summary: Awarded for outstanding scientific achievement
-
-    Publications:
-      - title: International trade and macroeconomic dynamics with sanctions
-        authors:
-          - Fabio Ghironi, Daisoon Kim, Galip Kemal Ozhan
-        releaseDate: 2025
-        publisher: Journal of Monetary Economics
-        url: https://doi.org/10.1016/j.jmoneco.2025.103810
-        
-      - title: Home market effects and increasing returns with non-constant marginal costs
-        authors:
-          - Nahyeon Bak, Daisoon Kim, Mishita Mehra
-        releaseDate: 2024
-        publisher: Journal of Economic Geography
-        url: https://doi.org/10.1093/jeg/lbae030
-        
-      - title: International economic sanctions and third-country effects
-        authors:
-          - Fabio Ghironi, Daisoon Kim, Galip Kemal Ozhan
-        publisher: IMF Economic Review
-        releaseDate: 2024
-        url: https://doi.org/10.1057/s41308-023-00232-9
-        
-      - title: Firm revenue elasticity and business cycle sensitivity
-        authors:
-          - Daisoon Kim, Anthony Savagar
-        publisher: Journal of Economic Dynamics and Control
-        releaseDate: 2023
-        url: https://doi.org/10.1016/j.jedc.2023.104722
-        
-      - title: Skilled immigration, offshoring, and trade
-        authors:
-          - Mishita Mehra, Daisoon Kim
-        publisher: Journal of Economic Dynamics and Control
-        releaseDate: 2023
-        url: https://doi.org/10.1016/j.jedc.2022.104579
-
-      - title: Central bank policy and the concentration of risk: Empirical estimates
-        authors:
-          - Nuno Coimbra, Daisoon Kim, and Hélène Rey
-        publisher: Journal of Monetary Economics
-        releaseDate: 2022
-        url: https://doi.org/10.1016/j.jmoneco.2021.08.002
-
-      - title: Economies of scale and international business cycles
-        authors:
-          - Daisoon Kim
-        publisher: Journal of International Economics
-        releaseDate: 2022
-        url: https://doi.org/10.1016/j.jmoneco.2025.103810
-        
+ 
     Skills:
       - name: Professional Skills
         icon: fa-solid fa-tag
@@ -157,22 +99,6 @@ cv:
         icon: fa-solid fa-tag
         keywords: "Firm Resilience, Firm Dynamics, Business Cycle Fluctuations, Market Structure, Systemic Risk and Uncertainty, Spillover/Network Effects, Sanctions, Global Value Chains/Investment"
         
-    Certificates:
-      - name: Machine Learning
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-location-dot
-
-      - name: Quantum Computing
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-tag
-
-      - name: Quantum Information
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-envelope
-
     Projects:
       - name: Quantum Computing
         summary: Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.
