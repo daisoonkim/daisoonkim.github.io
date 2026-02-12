@@ -1,8 +1,8 @@
 ---
 layout: about
 title: about
-permalink: /
-subtitle: [kim.daisoon.kr@gmail.com](mailto:kim.daisoon.kr@gmail.com)
+permalink: 
+subtitle: <a href='mailto:kim.daisoon.kr@gmail.com'>kim.daisoon.kr@gmail.com]</a>
 
 profile:
   align: right
