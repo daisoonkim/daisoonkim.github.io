@@ -6,15 +6,11 @@
   - firstname: ["Galip Kemal", "Galoip", "G. K.", "G. Kemal"]
     url: https://sites.google.com/site/gozhan
 
-"rosen":
-  - firstname: ["Nathan", "N."]
-    url: https://en.wikipedia.org/wiki/Nathan_Rosen
-
 "lee":
   - firstname: ["Sunhyung", "S."]
     url: https://sunhyung.weebly.com/
 
-"hyun"
+"hyun":
   - firstname: ["Jay", "J."]
     url: https://sites.google.com/site/jungsikhyunecon
 
