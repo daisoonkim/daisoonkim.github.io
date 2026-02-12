@@ -9,7 +9,9 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p> </p>
+    <p> Contact: <p>
+    <p> [kim.daisoon.kr@gmail.com](mailto:kim.daisoon.kr@gmail.com) </p>
+    <p> [dkim29@ncsu.edu](mailto:dkim29@ncsu.edu) </p>
     
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -26,6 +28,12 @@ latest_posts:
 ---
 
 I am an Assistant Professor of Economics at North Carolina State University and a Research Economist at the National Bureau of Economic Research. I am also affiliated with the Global Linkages Lab at Brown University. Prior to joining NC State, I was a Research Fellow at London Business School (2018–2019). I received my Ph.D. in Economics from the University of Washington in 2019. 
+
+[Publications](/publications/) | [Workling Papers](/workingpapers/) | [Workling Papers](/projects/) 
+
+[Academic CV](https://drive.google.com/file/d/1isPILSPRJgI4W-YEr3EogKauHqYwe98S/view?usp=sharing)
+[LinkedIn](https://www.linkedin.com/in/daisoonkim/)
+[Google Scholar](https://scholar.google.com/citations?user=SdO9LbUAAAAJ&hl)
 
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
