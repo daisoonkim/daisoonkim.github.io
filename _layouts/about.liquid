@@ -40,9 +40,8 @@ layout: default
 
     <div class="post-content">{{ content }}
 
-    <div class="contact-icons">{% include social.liquid %}
-
-    </div>
+    <div class="social">
+        <div class="contact-icons">{% social_links %}</div>
 
     <!-- News -->
     {% if page.announcements and page.announcements.enabled %}
