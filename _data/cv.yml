@@ -87,14 +87,14 @@ cv:
         
     Projects:
       - name: Granular Data and Firm Dynamics (Isolating Synchronized Idiosyncratic Shocks)
-        summary: Aggregate Fluctuations from Firm Comovement (revision requsted in JME)
+        summary: Aggregate Fluctuations from Firm Comovement (R&R JME)
         highlights:
           - Data Structure. Constructed a comprehensive 40-year longitudinal dataset covering the universe of U.S. public firms (Compustat Fundamentals), cleaning and harmonizing sector classifications (NAICS/SIC) across decades to ensure consistency.
           - Identification Strategy. Developed a non-parametric approach to decompose aggregate volatility. Unlike standard demeaning methods which wash out heterogeneity, this method isolates firm-specific shocks from sector-wide trends.
           - Economic Insight. Demonstrated that 45 percent of aggregate volatility stems from idiosyncratic shocks to large, granular firms, challenging standard representative firm assumptions.
 
       - name: Multi-Source Data Integration and Supply Chain Network Analysis
-        summary: Global Connectedness and Diversification during the Pandemic (revision requested in JMCB)
+        summary: Global Connectedness and Diversification during the Pandemic (R&R JMCB)
         highlights:
           - Data Engineering. Engineered a high-dimensional linked panel by merging FactSet Revere (supply chain relationships), Compustat (balance sheets), and CRSP (daily stock returns).
           - Identification Strategy. Exploited the exogenous timing of COVID-19 lockdowns across different countries to create a Difference-in-Differences (DID) design.
@@ -108,3 +108,9 @@ cv:
           - Identification Strategy. Utilized a Quasi-Experimental Design, exploiting variation in the timing and industry-targeting of government information releases to establish causality.
           - Economic Insight. Found that reducing information frictions significantly increases export volumes at the extensive margin (new buyers), particularly for small-to-medium enterprises (SMEs) in less concentrated industries.
 
+      - name: High-Dimensional Scanner Data and Dynamic Discrete Choice
+        summary: Consumer Learning and Package Size in Dynamic Brand Choice
+        highlights:
+          - Data Structure. Analyzed Nielsen Scanner Data, handling millions of transaction-level observations to track household purchasing histories over multiple years.
+          - Econometric Challenge. Disentangling true preference learning from spurious state dependence (habit formation) in consumer panel data.
+          - Result. Quantified how information friction drives brand-purchasing behavior, providing micro-evidence that consumers use small package sizes to test new products before committing to bulk purchases.
