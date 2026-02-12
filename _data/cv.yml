@@ -71,14 +71,14 @@ cv:
   Grants:
       - company: National Science Foundation (NSF)
         position: Co-Principal Investigator (Co-PI)
-        location: "$459,000"
+        location: 
         start_date: 2024
         end_date: 2026
         summary: "Project Title or Description"
 
       - company: Caterpillar
         position: Principal Investigator (PI)
-        location: "$86,000"
+        location: 
         start_date: 2023
         end_date: 2024
         summary: "Research on economic modeling"
