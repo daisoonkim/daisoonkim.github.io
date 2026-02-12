@@ -75,6 +75,8 @@ cv:
           - Data Structure. Constructed a comprehensive 40-year longitudinal dataset covering the universe of U.S. public firms (Compustat Fundamentals), cleaning and harmonizing sector classifications (NAICS/SIC) across decades to ensure consistency.
           - Identification Strategy. Developed a non-parametric approach to decompose aggregate volatility. Unlike standard demeaning methods which wash out heterogeneity, this method isolates firm-specific shocks from sector-wide trends.
           - Economic Insight. Demonstrated that 45 percent of aggregate volatility stems from idiosyncratic shocks to large, granular firms, challenging standard representative firm assumptions.
+        start_date: 
+        end_date:
 
     Skills:
       - name: Professional Skills
