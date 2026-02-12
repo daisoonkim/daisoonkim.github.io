@@ -57,12 +57,24 @@ layout: default
     {% endif %}
 
     <!-- Selected papers -->
-    <h2>Selected Papers</h2>
-    <div class="publications">
-      {% bibliography -f publications -q @*[selected=true]* %}
+    {% if page.selected_papers %}
+      <h2>
+        <a href="{{ '/publications/' | relative_url }}" style="color: inherit">selected research papers</a>
+      </h2>
+      {% include selected_papers.liquid %}
+    {% endif %}
 
-      {% bibliography -f workingpapers -q @*[selected=true]* %}
-    </div>
+    <!-- Social -->
+    {% if page.social %}
+      <div class="social">
+        <div class="contact-icons">{% social_links %}</div>
 
+        <div class="contact-note">{{ site.contact_note }}</div>
+      </div>
+    {% endif %}
+
+    {% if site.newsletter and site.newsletter.enabled and site.footer_fixed %}
+      {% include newsletter.liquid center=true %}
+    {% endif %}
   </article>
 </div>
