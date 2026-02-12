@@ -92,4 +92,19 @@ cv:
           - Data Structure. Constructed a comprehensive 40-year longitudinal dataset covering the universe of U.S. public firms (Compustat Fundamentals), cleaning and harmonizing sector classifications (NAICS/SIC) across decades to ensure consistency.
           - Identification Strategy. Developed a non-parametric approach to decompose aggregate volatility. Unlike standard demeaning methods which wash out heterogeneity, this method isolates firm-specific shocks from sector-wide trends.
           - Economic Insight. Demonstrated that 45 percent of aggregate volatility stems from idiosyncratic shocks to large, granular firms, challenging standard representative firm assumptions.
-     
+
+      - name: Multi-Source Data Integration and Supply Chain Network Analysis
+        summary: Global Connectedness and Diversification during the Pandemic (revision requested in JMCB)
+        highlights:
+          - Data Engineering. Engineered a high-dimensional linked panel by merging FactSet Revere (supply chain relationships), Compustat (balance sheets), and CRSP (daily stock returns).
+          - Identification Strategy. Exploited the exogenous timing of COVID-19 lockdowns across different countries to create a Difference-in-Differences (DID) design.
+          - Analysis. Mapped the propagation of supply chain shocks through specific firm-to-firm linkages.
+          - Result. Proved that while global diversification buffers domestic shocks, it exposes firms to specific foreign supplier risks---a finding only visible through granular network mapping.
+
+      - name: Quasi-Experimental Design and Policy Evaluation
+        summary: Public Information on Overseas Buyers for Export Promotion
+        highlights:
+          - Data Engineering. Digitized and structured historical archives of KOTRA buyer contact releases to create a unique dataset of information provision. Merged with establishment and industry level datasets.
+          - Identification Strategy. Utilized a Quasi-Experimental Design, exploiting variation in the timing and industry-targeting of government information releases to establish causality.
+          - Economic Insight. Found that reducing information frictions significantly increases export volumes at the extensive margin (new buyers), particularly for small-to-medium enterprises (SMEs) in less concentrated industries.
+
