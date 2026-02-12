@@ -21,27 +21,6 @@ cv:
     countryCode: US 
 
   sections:
-    Skills:
-      - name: Professional Skills
-        icon: fa-solid fa-hashtag
-        keywords: "Research/Project Management,	Data-Driven Decisions, Quantitative Research"
-      
-      - name: Quantitative Modeling
-        icon: fa-solid fa-hashtag
-        keywords: "Structural Econometrics, Heterogeneous Firms/Households Dynamics Models, Monte Carlo Simulation"
-
-      - name: Econometric Analysis
-        icon: fa-solid fa-hashtag
-        keywords: "Causal Inference (DID, Synthetic Controls), Dynamic Factor Models, Panel Local Projections"
-        
-      - name: Data 
-        icon: fa-solid fa-hashtag
-        keywords: "Complex Data Integration (Fuzzy Matching, Multi-source merging), Panel Data Construction (End-to-end ETL), Handling Unstructured (Text) Data"
-    
-      - name: Dataset 
-        icon: fa-solid fa-hashtag
-        keywords: "CRSP, Compustat, FactSet, ORBIS, EPFR, FT fDi Market, LCA, Nielsen Scanner,  KLIPS, UN Comtrade, NBER CES Manufacturing, BEA/EU/ASISA KLEMS"
-    
     Education:
       - institution: University of Washington
         location: Seattle, VA
@@ -130,12 +109,28 @@ cv:
         url: https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie
         summary: The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914).
 
-    Languages:
-      - name: German
-        summary: "Native speaker"
 
-      - name: English
-        summary: "Fluent"
+    Skills:
+      - name: Professional Skills
+        icon: fa-solid fa-tag
+        keywords: "Research/Project Management,	Data-Driven Decisions, Quantitative Research"
+      
+      - name: Quantitative Modeling
+        icon: fa-solid fa-tag
+        keywords: "Structural Econometrics, Heterogeneous Firms/Households Dynamics Models, Monte Carlo Simulation"
+
+      - name: Econometric Analysis
+        icon: fa-solid fa-tag
+        keywords: "Causal Inference (DID, Synthetic Controls), Dynamic Factor Models, Panel Local Projections"
+        
+      - name: Data 
+        icon: fa-solid fa-tag
+        keywords: "Complex Data Integration (Fuzzy Matching, Multi-source merging), Panel Data Construction (End-to-end ETL), Handling Unstructured (Text) Data"
+    
+      - name: Dataset 
+        icon: fa-solid fa-tag
+        keywords: "CRSP, Compustat, FactSet, ORBIS, EPFR, FT fDi Market, LCA, Nielsen Scanner,  KLIPS, UN Comtrade, NBER CES Manufacturing, BEA/EU/ASISA KLEMS"
+    
 
     Interests:
       - name: Physics
@@ -166,12 +161,3 @@ cv:
           - Quantum Cryptography
         start_date: 2018-01-01
         end_date: 2018-01-01
-
-    References:
-      - name: Professor John Doe
-        icon: fa-solid fa-laptop
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
-
-      - name: Professor Jane Smith
-        icon: fa-solid fa-thumbtack
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
