@@ -1,5 +1,3 @@
-
-
 "JME":
   color: "#009f36"
   url: /publications/
@@ -25,5 +23,5 @@
   url: /workingpapers/
   
 "Work in Progress":
-  color: "800080"
+  color: "#800080"
   url: /projects/
