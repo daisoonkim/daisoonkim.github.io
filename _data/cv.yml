@@ -33,18 +33,6 @@ cv:
         courses: 
         highlights:
 
-  Grants:
-      - institution: University of Washington
-        location: 
-        url:
-        area: Economics
-        studyType: PhD
-        start_date: 2013
-        end_date: 2019
-        score: ""
-        courses: 
-        highlights:
-        
     Experience:
       - company: Poole College of Management, NC State University
         position: Assistant Professor of Economics
