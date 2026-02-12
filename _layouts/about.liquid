@@ -38,16 +38,9 @@ layout: default
       </div>
     {% endif %}
 
-    <div class="post-content">
-    {{ content }}
+    <div class="post-content">{{ content }}
 
-    {% if page.social %}
-      <div class="social">
-        <div class="contact-icons">
-          {% include social.liquid %}
-        </div>
-      </div>
-    {% endif %}
+    <div class="contact-icons">{% include social.liquid %}
 
     </div>
 
