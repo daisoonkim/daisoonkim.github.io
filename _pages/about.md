@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: 
-subtitle: <a href='mailto:kim.daisoon.kr@gmail.com'>kim.daisoon.kr@gmail.com]</a>
+subtitle: kim.daisoon.kr@gmail.com
 
 profile:
   align: right
