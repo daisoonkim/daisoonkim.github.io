@@ -85,7 +85,7 @@ cv:
         icon: fa-solid fa-tag
         keywords: "Firm Resilience, Firm Dynamics, Business Cycles, Market Structure, Systemic Risk and Uncertainty, Spillover, Network Effects, Sanctions, Global Value Chains"
         
-Projects:
+    Projects:
       - name: Quantum Computing
         summary: Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.
         highlights:
