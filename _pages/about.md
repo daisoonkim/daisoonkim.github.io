@@ -6,7 +6,7 @@ subtitle: Assistant Professor of Economics, NC State University
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: daisoon_kim_500x500px.png
   image_circular: false # crops the image to make it circular
   more_info: >
     <p> Contact: <p>
@@ -35,3 +35,16 @@ I am an Assistant Professor of Economics at North Carolina State University and 
 [LinkedIn](https://www.linkedin.com/in/daisoonkim/)
 [Google Scholar](https://scholar.google.com/citations?user=SdO9LbUAAAAJ&hl)
 
+<div class="profile-link-boxes">
+  <a class="profile-link-box" href="https://drive.google.com/file/d/1isPILSPRJgI4W-YEr3EogKauHqYwe98S/view?usp=sharing" target="_blank">
+    Academic CV
+  </a>
+
+  <a class="profile-link-box" href="https://www.linkedin.com/in/daisoonkim/" target="_blank">
+    LinkedIn
+  </a>
+
+  <a class="profile-link-box" href="https://scholar.google.com/citations?user=SdO9LbUAAAAJ&hl" target="_blank">
+    Google Scholar
+  </a>
+</div>
