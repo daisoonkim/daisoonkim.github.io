@@ -1,7 +1,7 @@
 ---
 layout: about
 title: about
-permalink: 
+permalink: /
 subtitle: kim.daisoon.kr@gmail.com
 
 profile:
