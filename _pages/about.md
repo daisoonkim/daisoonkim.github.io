@@ -29,6 +29,8 @@ latest_posts:
 
 I am an Assistant Professor of Economics at North Carolina State University and a Research Economist at the National Bureau of Economic Research. I am also affiliated with the Global Linkages Lab at Brown University. Prior to joining NC State, I was a Research Fellow at London Business School (2018–2019). I received my Ph.D. in Economics from the University of Washington in 2019. 
 
+[Publications]({{ '/publications/' | relative_url }}) &nbsp;&bull;&nbsp; [Working Papers]({{ '/workingpapers/' | relative_url }}) &nbsp;&bull;&nbsp; [Projects]({{ '/projects/' | relative_url }})
+
 [Publications](/publications/) \| [Workling Papers](/workingpapers/) \| [Workling Papers](/projects/) 
 
 [Academic CV](https://drive.google.com/file/d/1isPILSPRJgI4W-YEr3EogKauHqYwe98S/view?usp=sharing)
