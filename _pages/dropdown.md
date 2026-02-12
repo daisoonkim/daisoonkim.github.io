@@ -1,13 +1,13 @@
 ---
 layout: page
-title: submenus
+title: projects
 nav: true
-nav_order: 8
+nav_order: 3
 dropdown: true
 children:
-  - title: bookshelf
-    permalink: /books/
+  - title: workingpapers
+    permalink: /projects/
   - title: divider
-  - title: blog
-    permalink: /blog/
+  - title: works in progress
+    permalink: /projects/
 ---
