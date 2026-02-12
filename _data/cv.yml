@@ -4,7 +4,7 @@ cv:
   email: kim.daisoon.kr@gmail.com
   location: Vienna, VA
   image: ""
-  summary: PhD economist and researcher with 7+ years of experience transforming large, granular datasets, building end-to-end data pipelines, and developing structural economic models to inform policy and business strategy. Proven track record of leading funded research programs (e.g., NSF co-PI, \$459K; Caterpillar PI, \$86K), publishing in top field journals (e.g., JME, JIE), and delivering research used by central banks and international institutions (e.g., the Federal Reserve, IMF, and UN).
+  summary: PhD economist and researcher with 7+ years of experience transforming large, granular datasets, building end-to-end data pipelines, and developing structural economic models to inform policy and business strategy. Proven track record of leading funded research programs (e.g., NSF co-PI, 459K; Caterpillar PI, 86K), publishing in top field journals (e.g., JME, JIE), and delivering research used by central banks and international institutions (e.g., the Federal Reserve, IMF, and UN).
 
 
   social_networks:
@@ -32,8 +32,7 @@ cv:
         score: ""
         courses: 
         highlights:
-          - Dissertation Committe. Fabio Ghironi, John Geweke, Yu-chin Chen
-
+        
     Experience:
       - company: Poole College of Management, NC State University
         position: Assistant Professor of Economics
