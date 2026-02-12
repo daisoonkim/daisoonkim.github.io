@@ -74,14 +74,14 @@ cv:
         location: 
         start_date: 2024
         end_date: 2026
-        summary: "Project Title or Description"
+        highlights:
 
       - company: Caterpillar
         position: Principal Investigator (PI)
         location: 
         start_date: 2023
         end_date: 2024
-        summary: "Research on economic modeling"
+        highlights:
         
     Awards:
       - title: Nobel Prize in Physics
