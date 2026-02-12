@@ -1,7 +1,11 @@
 "davis":
   - firstname: ["Steven", "Steven J.", "S. J."]
     url: https://stevenjdavis.com/
-    
+
+"Kalemli-Özcan"
+  - firstname: ["Şebnem", "Sebnem", "S."]
+    url: https://sebnemkalemliozcan.com/
+
 "kwak": 
   - firstname: ["Jun Hee", "J. H."]
     url: https://sites.google.com/view/junheekwak/
