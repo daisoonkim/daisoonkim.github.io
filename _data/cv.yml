@@ -1,11 +1,11 @@
 cv:
-name: Daisoon Kim 
+  name: Daisoon Kim
   label: PhD Economist
   email: kim.daisoon.kr@gmail.com
   location: Vienna, VA
   image: ""
-  summary: PhD economist and researcher with 7+ years of experience transforming large, granular datasets, building end-to-end data pipelines, and developing structural economic models to inform policy and business strategy. Proven track record of leading funded research programs (e.g., NSF co-PI, 459K; Caterpillar PI, 86K), publishing in top field journals (e.g., JME, JIE), and delivering research used by central banks and international institutions (e.g., the Federal Reserve, IMF, and UN).
-
+  summary: >
+    PhD economist and researcher with 7+ years of experience transforming large, granular datasets, building end-to-end data pipelines, and developing structural economic models to inform policy and business strategy. Proven track record of leading funded research programs (e.g., NSF co-PI, 459K; Caterpillar PI, 86K), publishing in top field journals (e.g., JME, JIE), and delivering research used by central banks and international institutions (e.g., the Federal Reserve, IMF, and UN).
 
   social_networks:
     - network: X
@@ -14,24 +14,20 @@ name: Daisoon Kim
       username: daisoonkim
 
   address:
-    street: 
+    street: ""
     city: Vienna
     region: Virginia
-    postalCode: 
-    countryCode: US 
+    postalCode: ""
+    countryCode: US
 
   sections:
     Education:
       - institution: University of Washington
-        location: Seattle, VA
-        url:
+        location: Seattle, WA
         area: Economics
         studyType: PhD
         start_date: 2013
         end_date: 2019
-        score: ""
-        courses: 
-        highlights:
 
     Experience:
       - company: Poole College of Management, NC State University
@@ -39,22 +35,18 @@ name: Daisoon Kim
         location: Raleigh, NC
         start_date: 2019
         end_date: current
-        summary:
-        highlights:
 
       - company: National Bureau of Economic Research
         position: Research Economist
         location: Cambridge, MA
         start_date: 2023
         end_date: current
-        highlights:
 
-      - company: Global Linkages Lab, Brown University 
+      - company: Global Linkages Lab, Brown University
         position: Affiliate Professor
         location: Providence, RI
         start_date: 2023
         end_date: current
-        highlights:
 
       - company: London Business School
         position: Research Fellow in Economics
@@ -62,40 +54,33 @@ name: Daisoon Kim
         start_date: 2018
         end_date: 2019
 
-      - company: Korea Institute of Public Finance 
+      - company: Korea Institute of Public Finance
         position: Research Analyst
-        location: Seojong, Korea
+        location: Sejong, Korea
         start_date: 2012
         end_date: 2012
 
     Skills:
       - name: Professional Skills
         icon: fa-solid fa-tag
-        keywords: "Research/Project Management,	Data-Driven Decisions, Quantitative Research"
-      
+        keywords: "Research/Project Management, Data-Driven Decisions, Quantitative Research"
       - name: Quantitative Modeling
         icon: fa-solid fa-tag
         keywords: "Structural Econometrics, Heterogeneous Firms/Households Dynamics Models, Monte Carlo Simulation"
-
       - name: Econometric Analysis
         icon: fa-solid fa-tag
         keywords: "Causal Inference (DID, Synthetic Controls), Dynamic Factor Models, Panel Local Projections"
-        
-      - name: Data 
+      - name: Data
         icon: fa-solid fa-tag
-        keywords: "Complex Data Integration (Fuzzy Matching, Multi-source merging), Panel Data Construction (End-to-end ETL), Handling Unstructured (Text) Data"
-    
-      - name: Dataset 
+        keywords: "Complex Data Integration, Panel Data Construction, Unstructured Data"
+      - name: Dataset
         icon: fa-solid fa-tag
-        keywords: "CRSP, Compustat, FactSet, ORBIS, EPFR, FT fDi Market, LCA, Nielsen Scanner,  KLIPS, UN Comtrade, NBER CES Manufacturing, BEA/EU/ASISA KLEMS"
-    
+        keywords: "CRSP, Compustat, FactSet, ORBIS, EPFR, FT fDi Market, LCA, Nielsen Scanner, KLIPS, UN Comtrade"
 
     Interests:
-      - name: Fields 
+      - name: Fields
         icon: fa-solid fa-tag
         keywords: "International Economics, Macroeconomics, Industrial Organization"
-
       - name: Topics
         icon: fa-solid fa-tag
-        keywords: "Firm Resilience, Firm Dynamics, Business Cycles, Market Structure, Systemic Risk and Uncertainty, Spillover/Network Effects, Sanctions, Global Value Chains/Investment"
-        
+        keywords: "Firm Resilience, Firm Dynamics, Business Cycles, Market Structure, Systemic Risk"
