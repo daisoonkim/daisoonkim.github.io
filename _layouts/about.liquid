@@ -57,27 +57,15 @@ layout: default
     {% endif %}
 
     <!-- Selected papers -->
-    <h2>Selected Publications: Group A</h2>
+    <h2>Selected Publications</h2>
     <div class="publications">
       {% bibliography -f publications -q @*[selected=true]* %}
     </div>
     
-    <h2>Selected Working Papers: Group B</h2>
+    <h2>Selected Working Papers</h2>
     <div class="publications">
       {% bibliography -f papers -q @*[selected=true]* %}
     </div>
 
-    <!-- Social -->
-    {% if page.social %}
-      <div class="social">
-        <div class="contact-icons">{% social_links %}</div>
-
-        <div class="contact-note">{{ site.contact_note }}</div>
-      </div>
-    {% endif %}
-
-    {% if site.newsletter and site.newsletter.enabled and site.footer_fixed %}
-      {% include newsletter.liquid center=true %}
-    {% endif %}
   </article>
 </div>
