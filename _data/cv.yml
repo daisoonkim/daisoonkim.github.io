@@ -87,29 +87,53 @@ cv:
     Publications:
       - title: International trade and macroeconomic dynamics with sanctions
         authors:
-          - Fabio Ghironi
-          - Daisoon Kim
-          - Galip Kemal Ozhan
+          - Fabio Ghironi, Daisoon Kim, Galip Kemal Ozhan
         releaseDate: 2025
+        publisher: Journal of Monetary Economics
         url: https://doi.org/10.1016/j.jmoneco.2025.103810
         
       - title: Home market effects and increasing returns with non-constant marginal costs
         authors:
-          - Nahyeon Bak
-          - Daisoon Kim
-          - Mishita Mehra
+          - Nahyeon Bak, Daisoon Kim, Mishita Mehra
         releaseDate: 2024
+        publisher: Journal of Economic Geography
         url: https://doi.org/10.1093/jeg/lbae030
         
-      - title: Die Grundlage der allgemeinen Relativitätstheorie
+      - title: International economic sanctions and third-country effects
         authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1916-03-20
-        url: https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie
-        summary: The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914).
+          - Fabio Ghironi, Daisoon Kim, Galip Kemal Ozhan
+        publisher: IMF Economic Review
+        releaseDate: 2024
+        url: https://doi.org/10.1057/s41308-023-00232-9
+        
+      - title: Firm revenue elasticity and business cycle sensitivity
+        authors:
+          - Daisoon Kim, Anthony Savagar
+        publisher: Journal of Economic Dynamics and Control
+        releaseDate: 2023
+        url: https://doi.org/10.1016/j.jedc.2023.104722
+        
+      - title: Skilled immigration, offshoring, and trade
+        authors:
+          - Mishita Mehra, Daisoon Kim
+        publisher: Journal of Economic Dynamics and Control
+        releaseDate: 2023
+        url: https://doi.org/10.1016/j.jedc.2022.104579
 
+      - title: Central bank policy and the concentration of risk: Empirical estimates
+        authors:
+          - Nuno Coimbra, Daisoon Kim, and Hélène Rey
+        publisher: Journal of Monetary Economics
+        releaseDate: 2022
+        url: https://doi.org/10.1016/j.jmoneco.2021.08.002
 
+      - title: Economies of scale and international business cycles
+        authors:
+          - Daisoon Kim
+        publisher: Journal of International Economics
+        releaseDate: 2022
+        url: https://doi.org/10.1016/j.jmoneco.2025.103810
+        
     Skills:
       - name: Professional Skills
         icon: fa-solid fa-tag
@@ -133,10 +157,14 @@ cv:
     
 
     Interests:
-      - name: Physics
+      - name: Fields 
         icon: fa-solid fa-tag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
+        keywords: "International Economics, Macroeconomics, Industrial Organization"
 
+      - name: Topics
+        icon: fa-solid fa-tag
+        keywords: "Firm Resilience, Firm Dynamics, Business Cycle Fluctuations, Market Structure, Systemic Risk and Uncertainty, Spillover/Network Effects, Sanctions, Global Value Chains/Investment"
+        
     Certificates:
       - name: Machine Learning
         date: 2018-01-01
