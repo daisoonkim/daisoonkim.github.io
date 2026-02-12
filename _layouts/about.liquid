@@ -57,13 +57,11 @@ layout: default
     {% endif %}
 
     <!-- Selected papers -->
-    <h2>Selected Publications</h2>
+    <h2>Selected Papers</h2>
     <div class="publications">
       {% bibliography -f publications -q @*[selected=true]* %}
     </div>
-    </div>
 
-    <h2>Selected Working Papers</h2>
     <div class="publications">
       {% bibliography -f papers -q @*[selected=true]* %}
     </div>
