@@ -154,6 +154,9 @@ layout: default
               {% if section_title == 'Education' %}
                 {% assign entries = section_entries %}
                 {% include cv/education.liquid %}
+              {% elsif section_title == 'Grants' %}
+                {% assign entries = section_entries %}
+                {% include cv/grants.liquid %}
               {% elsif section_title == 'Awards' or section_title == 'Honors and Awards' %}
                 {% assign entries = section_entries %}
                 {% include cv/awards.liquid %}
@@ -284,6 +287,18 @@ layout: default
             <div>
               {% assign entries = site.data.resume.education %}
               {% include cv/education.liquid %}
+            </div>
+          </div>
+        {% endif %}
+
+        <!-- Grants -->
+        {% if site.data.resume.grants.size > 0 %}
+          <a class="anchor" id="grants"></a>
+          <div class="card mt-3 p-3">
+            <h3 class="card-title font-weight-medium">Grants</h3>
+            <div>
+              {% assign entries = site.data.resume.grants %}
+              {% include cv/grants.liquid %}
             </div>
           </div>
         {% endif %}
