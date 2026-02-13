@@ -10,7 +10,7 @@ ninja.data = [{
       window.location.href = "/";
     },
   },{id: "nav-publications",
-          title: "publications",
+          title: "Publications",
           description: "JME (x2), JIE, JoEG, IMF ER, JEDC (x2)",
           section: "Navigation",
           handler: () => {
