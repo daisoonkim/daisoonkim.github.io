@@ -23,8 +23,8 @@ cv:
     Education:
       - institution: University of Washington
         location: Seattle, WA
-        area: Economics
-        studyType: PhD
+        area: 
+        studyType: PhD in Economics
         start_date: 2013
         end_date: 2019
 
