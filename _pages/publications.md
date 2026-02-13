@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /publications/
-title: publications
+title: Publications
 description: JME (x2), JIE, JoEG, IMF ER, JEDC (x2)
 nav: true
 nav_order: 2
