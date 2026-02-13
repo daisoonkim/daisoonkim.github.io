@@ -30,4 +30,5 @@ I am an Assistant Professor of Economics at North Carolina State University and 
 [\[Publications\]](/publications/)  [\[Workling Papers\]](/workingpapers/)  [\[Works In Progress\]](/projects/) 
 
 [\[Academic CV\]](https://drive.google.com/file/d/1isPILSPRJgI4W-YEr3EogKauHqYwe98S/view?usp=sharing) [\[Resume\]](/cv/)
-[\[LinkedIn\]](https://www.linkedin.com/in/daisoonkim/)  [\[Google Scholar\]](https://scholar.google.com/citations?user=SdO9LbUAAAAJ&hl) 
+
+[\[LinkedIn\]](https://www.linkedin.com/in/daisoonkim/)  [\[Google Scholar\]](https://scholar.google.com/citations?user=SdO9LbUAAAAJ&hl) [\[ORCID\]](https://orcid.org/0000-0002-2863-4326)
