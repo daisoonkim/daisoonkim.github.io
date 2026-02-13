@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /workingpapers/
-title: working papers
+title: Working Papers
 description: R&R at JME, JIE, and JMCB
 nav: false
 nav_order: 1
