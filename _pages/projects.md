@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /projects/
-title: works in progress
+title: Works in Progress
 description: drafts available upon request. 
 nav: false
 nav_order: 3
