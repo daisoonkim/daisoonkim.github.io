@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://drive.google.com/file/d/1isPILSPRJgI4W-YEr3EogKauHqYwe98S/view?usp=sharing'>Academic CV</a> kim.daisoon.kr@gmail.com
+subtitle: <a href='mailto:kim.daisoon.kr@gmail.com'>kim.daisoon.kr@gmail.com</a> kim.daisoon.kr@gmail.com
 
 profile:
   align: right
