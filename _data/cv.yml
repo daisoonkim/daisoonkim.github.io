@@ -65,7 +65,7 @@ cv:
         keywords: "Project Management, Data-Driven Decisions, Quantitative Research"
       - name: Quantitative Modeling
         icon: fa-solid fa-tag
-        keywords: "Structural Econometrics, Heterogeneous Firms/Households Dynamics Models, Monte Carlo Simulation"
+        keywords: "Heterogeneous Firms/Households Dynamics Models, Monte Carlo Simulation, Structural Econometrics"
       - name: Econometric Analysis
         icon: fa-solid fa-tag
         keywords: "Causal Inference (DID, Synthetic Controls), Dynamic Factor Models, Panel Local Projections"
@@ -82,14 +82,14 @@ cv:
         keywords: "International Economics, Macroeconomics, Industrial Organization"
       - name: Topics
         icon: fa-solid fa-tag
-        keywords: "Firm Resilience, Firm Dynamics, Business Cycles, Market Structure, Systemic Risk/Uncertainty, Spillover, Network Effects, Sanctions, Global Value Chains and Investment"
+        keywords: "Firm Resilience, Firm Dynamics, Business Cycles, Market Structure, Systemic Risk, Uncertainty, Spillover, Network Effects, Sanctions, Global Value Chains and Investment"
         
     Projects:
       - name: Granular Data and Firm Dynamics (Isolating Synchronized Idiosyncratic Shocks)
         summary: Aggregate Fluctuations from Firm Comovement (R&R JME)
         highlights:
           - Data Structure. Constructed a comprehensive 40-year longitudinal dataset covering the U.S. public firms (Compustat Fundamentals), cleaning and harmonizing sector classifications across decades to ensure consistency.
-          - Identification Strategy. Developed a non-parametric approach to decompose aggregate volatility. Unlike standard demeaning methods which wash out heterogeneity, this method isolates contribution of firm-specific shocks.
+          - Identification Strategy. Developed a non-parametric approach to decompose aggregate volatility. Unlike standard demeaning methods which wash out heterogeneity, this method isolates contribution of firm-specific shock spillovers.
           - Economic Insight. Demonstrated that 10-15 percent of aggregate volatility stems from correlated idiosyncratic shocks, challenging standard representative firm assumptions.
 
       - name: Multi-Source Data Integration and Supply Chain Network Analysis
@@ -105,7 +105,7 @@ cv:
         highlights:
           - Data Engineering. Digitized and structured historical archives of KOTRA buyer contact releases to create a unique dataset of information provision. Merged with establishment and industry level datasets.
           - Identification Strategy. Utilized a Quasi-Experimental Design, exploiting variation in the timing and industry-targeting of government information releases to establish causality.
-          - Economic Insight. Found that reducing information frictions significantly increases export volumes at the extensive margin (new buyers), particularly for small-to-medium enterprises (SMEs) in less concentrated industries.
+          - Economic Insight. Found that reducing information frictions significantly increases export volumes at the extensive margin (new buyers), particularly for small-to-medium enterprises (SMEs).
 
       - name: High-Dimensional Scanner Data and Dynamic Discrete Choice
         summary: Consumer Learning and Package Size in Dynamic Brand Choice
