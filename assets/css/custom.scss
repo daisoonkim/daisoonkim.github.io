@@ -1,6 +1,7 @@
 ---
 ---
 
+@import "main";
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap');
 
 body {
@@ -21,18 +22,3 @@ h1, h2, h3, h4, h5, h6 {
   display: block !important;
 }
 
-.publications .col-sm-10 {
-  width: 100% !important;
-  max-width: 100% !important;
-  flex: 0 0 100% !important;
-}
-
-/* ===== REMOVE LEFT BADGE ===== */
-.publications .abbr {
-  display: none !important;
-}
-
-/* ===== REMOVE THUMBNAIL SPACE ===== */
-.publications .teaser {
-  display: none !important;
-}
