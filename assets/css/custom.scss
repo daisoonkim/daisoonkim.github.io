@@ -8,3 +8,15 @@ body {
 h1, h2, h3, h4, h5, h6 {
   font-family: 'Inter', sans-serif !important;
 }
+
+
+/* Remove left image column spacing */
+.publication .teaser {
+  display: none !important;
+}
+
+/* Make text use full width */
+.publication .details {
+  margin-left: 0 !important;
+  width: 100% !important;
+}
