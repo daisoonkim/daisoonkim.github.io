@@ -18,6 +18,16 @@ h1, h2, h3, h4, h5, h6 {
   color: var(--global-text-color) !important;
   margin-top: 2rem;
 }
+/* Remove year column completely */
+.publications .row > .col-sm-2 {
+  display: none !important;
+}
+
+/* Make entries full width */
+.publications .row > .col-sm-10 {
+  flex: 0 0 100% !important;
+  max-width: 100% !important;
+}
 
 /* Make content full width */
 .publications .row {
