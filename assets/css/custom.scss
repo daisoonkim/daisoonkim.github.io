@@ -10,6 +10,10 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 /* ===== REMOVE RIGHT YEAR COLUMN ===== */
+.publications .year {
+  display: none !important;
+}
+
 .publications h2.bibliography {
   text-align: left !important;
   border-top: none !important;
