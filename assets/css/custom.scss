@@ -48,14 +48,9 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 
-/* 1. Force the main container to use more width */
-.post {
-  max-width: 100% !important;
-}
-
 /* 2. Remove the default Bootstrap padding/margins that center the content */
 .container {
-  max-width: 100% !important; /* Adjust this number to your liking (default is usually 800px) */
+  max-width: 930px !important; /* Adjust this number to your liking (default is usually 800px) */
 }
 
 /* 3. Ensure the bibliography entries actually span the full container */
