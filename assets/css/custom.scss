@@ -14,14 +14,11 @@ h1, h2, h3, h4, h5, h6 {
   display: none !important;
 }
 
-.publications h2.bibliography {
-  text-align: left !important;
-  border-top: none !important;
-  font-size: 1rem !important;
-  font-weight: 500 !important;
-  color: var(--global-text-color) !important;
-  margin-top: 2rem;
+.publications h2.year {
+  display: none !important;
 }
+
+
 /* Remove year column completely */
 .publications .row > .col-sm-2 {
   display: none !important;
