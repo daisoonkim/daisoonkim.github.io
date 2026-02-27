@@ -26,6 +26,11 @@ h1, h2, h3, h4, h5, h6 {
   max-width: 100% !important;
 }
 
+/* Expand publications container width */
+.publications {
+  max-width: 930px;
+}
+
 /* Make content full width */
 .publications .row {
   display: block !important;
@@ -45,21 +50,4 @@ h1, h2, h3, h4, h5, h6 {
 /* ===== REMOVE THUMBNAIL SPACE ===== */
 .publications .teaser {
   display: none !important;
-}
-
-
-/* 2. Remove the default Bootstrap padding/margins that center the content */
-.container {
-  max-width: 930px !important; /* Adjust this number to your liking (default is usually 800px) */
-}
-
-/* 3. Ensure the bibliography entries actually span the full container */
-.publications .row {
-  margin-left: 0 !important;
-  margin-right: 0 !important;
-  width: 100% !important;
-}
-
-.publications .col-sm-10 {
-  padding-left: 0 !important;
 }
