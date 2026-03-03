@@ -17,14 +17,14 @@ ninja.data = [{
             window.location.href = "/publications/";
           },
         },{id: "dropdown-working-papers",
-              title: "working papers",
+              title: "Working Papers",
               description: "",
               section: "Dropdown",
               handler: () => {
                 window.location.href = "/workingpapers/";
               },
             },{id: "dropdown-works-in-progress",
-              title: "works in progress",
+              title: "Works in Progress",
               description: "",
               section: "Dropdown",
               handler: () => {
