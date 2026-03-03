@@ -47,4 +47,14 @@ h1, h2, h3, h4, h5, h6 {
   display: none !important;
 }
 
+/* Shrink the profile image container */
+.profile {
+    width: 20% !important; /* Adjust this percentage to make it even smaller */
+    margin-bottom: 20px;
+}
 
+/* Ensure the image itself fits the new small container */
+.profile img {
+    max-width: 100% !important;
+    height: auto !important;
+}
