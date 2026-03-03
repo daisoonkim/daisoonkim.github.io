@@ -116,7 +116,7 @@ cv:
     
   Publications:
     - title: International Trade and Macroeconomic Dynamics with Sanctions
-      authros:
+      authors:
         - Fabio Ghironi
         - Daisoon Kim
         - Galip Kemal Ozhan
@@ -125,7 +125,7 @@ cv:
       url: https://doi.org/10.1016/j.jmoneco.2025.103810
   
     - title: International Economic Sanctions and Third-Country Effects
-      authros:
+      authors:
         - Fabio Ghironi
         - Daisoon Kim
         - Galip Kemal Ozhan
@@ -134,7 +134,7 @@ cv:
       url: https://doi.org/10.1057/s41308-023-00232-9
   
     - title: Home Market Effects and Increasing Returns with Non-constant Marginal Costs
-      authros:
+      authors:
         - Nahyeon Bak
         - Daisoon Kim
         - Mishita Mehra
@@ -143,7 +143,7 @@ cv:
       url: https://doi.org/10.1093/jeg/lbae030
   
     - title: Firm Revenue Elasticity and Business Cycle Sensitivity
-      authros:
+      authors:
         - Daisoon Kim
         - Anthony Savagar
       publisher: Journal of Economic Dynamics and Control
@@ -151,7 +151,7 @@ cv:
       url: https://doi.org/10.1016/j.jedc.2023.104722
   
     - title: Skilled Immigration, Offshoring, and Trade
-      authros:
+      authors:
         - Mishita Mehra
         - Daisoon Kim
       publisher: Journal of Economic Dynamics and Control
@@ -159,7 +159,7 @@ cv:
       url: https://doi.org/10.1016/j.jedc.2022.104579
   
     - title: Central Bank Policy and the Concentration of Risk - Empirical Estimates
-      authros:
+      authors:
         - Nuno Coimbra
         - Daisoon Kim
         - Hélène Rey
@@ -168,7 +168,7 @@ cv:
       url: https://doi.org/10.1016/j.jmoneco.2021.08.002
   
     - title: Economies of Scale and International Business Cycles
-      authros:
+      authors:
         - Daisoon Kim
       publisher: Journal of International Economics
       releaseDate: 2021-07
