@@ -24,12 +24,13 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Assistant Professor of Economics 
+Assistant Professor of Economics <br>
 North Carolina State University
 
-Email: [kim.daisoon.kr@gmail.com](mailto:kim.daisoon.kr@gmail.com)  |  [dkim29@ncsu.edu](mailto:dkim29@ncsu.edu)  
+Email: [kim.daisoon.kr@gmail.com](mailto:kim.daisoon.kr@gmail.com)  \|  [dkim29@ncsu.edu](mailto:dkim29@ncsu.edu)  
 
-[\[Academic CV\]](https://drive.google.com/file/d/1isPILSPRJgI4W-YEr3EogKauHqYwe98S/view?usp=sharing) [\[Resume\]](/cv/)
+
+[\[Academic CV\]](https://drive.google.com/file/d/1isPILSPRJgI4W-YEr3EogKauHqYwe98S/view?usp=sharing) [\[Resume\]](/cv/)  
 
 [\[LinkedIn\]](https://www.linkedin.com/in/daisoonkim/)  [\[Google Scholar\]](https://scholar.google.com/citations?user=SdO9LbUAAAAJ&hl) [\[ORCID\]](https://orcid.org/0000-0002-2863-4326)
 
