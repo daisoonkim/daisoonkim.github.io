@@ -40,14 +40,6 @@ layout: default
       </div>
     {% endif %}
 
-    <!-- Selected papers -->
-    <h3>Selected R&Rs and Publications</h3>
-    <div class="publications">
-      {% bibliography -f workingpapers -q @*[selected=true]* %}
-
-      {% bibliography -f publications -q @*[selected=true]* %}
-    </div>
-
     <div class="clearfix">{{ content }}</div>
 
     <!-- News -->
