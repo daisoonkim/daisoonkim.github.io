@@ -5,7 +5,7 @@ cv:
   location: Vienna, VA
   image: ""
   summary: >
-    PhD economist and researcher with 7+ years of experience transforming large, granular datasets, building end-to-end data pipelines, and developing structural economic models to inform policy and business strategy. Proven track record of leading funded research programs (e.g., NSF co-PI, 459K; Caterpillar PI, 86K), publishing in top field journals (e.g., JME, JIE), and delivering research used by central banks and international institutions (e.g., the Federal Reserve, IMF, and UN).
+    PhD economist with 7+ years of experience transforming large, granular datasets, building end-to-end data pipelines, and developing structural economic models to inform policy and business strategy. Proven track record of leading funded research programs (e.g., NSF co-PI, 459K; Caterpillar PI, 86K), publishing in top field journals (e.g., JME, JIE), and delivering research used by central banks and international institutions (e.g., the Federal Reserve, IMF, and UN).
 
   social_networks:
     - network: X
@@ -113,3 +113,9 @@ cv:
           - Data Structure. Analyzed Nielsen Scanner Data, handling millions of transaction-level observations to track household purchasing histories over multiple years.
           - Econometric Challenge. Disentangling true preference learning from spurious state dependence (habit formation) in consumer panel data.
           - Result. Quantified how information friction drives brand-purchasing behavior, providing micro-evidence that consumers use small package sizes to test new products before committing to bulk purchases.
+        
+    Publications:
+      - name: International Trade and Macroeconomic Dynamics with Sanctions
+        publisher: Journal of Monetary Economics
+        relaseDate: 2025-09
+        url: https://doi.org/https://doi.org/10.1016/j.jmoneco.2025.103810
