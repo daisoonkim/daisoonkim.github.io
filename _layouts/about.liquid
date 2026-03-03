@@ -59,7 +59,9 @@ layout: default
     {% endif %}
 
     <!-- Selected papers -->
-    <h4>Selected R&Rs and Publications</h4>
+    <h4 style="border-bottom: 1px solid #ccc; padding-bottom: 10px; margin-bottom: 20px;">
+  Selected R&Rs and Publications
+    </h4>
     <div class="publications">
       {% bibliography -f workingpapers -q @*[selected=true]* %}
 
