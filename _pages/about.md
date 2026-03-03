@@ -35,7 +35,5 @@ Email: [kim.daisoon.kr@gmail.com](mailto:kim.daisoon.kr@gmail.com)  \|  [dkim29@
 
 [\[LinkedIn\]](https://www.linkedin.com/in/daisoonkim/)  
 [\[Google Scholar\]](https://scholar.google.com/citations?user=SdO9LbUAAAAJ&hl) 
-[\[ORCID\]](https://orcid.org/0000-0002-2863-4326)
-[\[College Website\]](https://poole.ncsu.edu/people/daisoon-kim/)
-<br>
+[\[ORCID\]](https://orcid.org/0000-0002-2863-4326) <br>
 
