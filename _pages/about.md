@@ -26,7 +26,8 @@ latest_posts:
 
 Assistant Professor of Economics <br>
 Poole College of Management<br>
-North Carolina State University
+North Carolina State University<br>
+Raleigh, NC, USA
 
 Email: [kim.daisoon.kr@gmail.com](mailto:kim.daisoon.kr@gmail.com)  \|  [dkim29@ncsu.edu](mailto:dkim29@ncsu.edu)  
 
