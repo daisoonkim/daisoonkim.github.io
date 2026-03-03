@@ -113,8 +113,7 @@ cv:
           - Data Structure. Analyzed Nielsen Scanner Data, handling millions of transaction-level observations to track household purchasing histories over multiple years.
           - Econometric Challenge. Disentangling true preference learning from spurious state dependence (habit formation) in consumer panel data.
           - Result. Quantified how information friction drives brand-purchasing behavior, providing micro-evidence that consumers use small package sizes to test new products before committing to bulk purchases.
-        
-    Publications:
+    
 Publications:
   - name: "International Trade and Macroeconomic Dynamics with Sanctions"
     publisher: Journal of Monetary Economics
