@@ -33,7 +33,5 @@ Email: [kim.daisoon.kr@gmail.com](mailto:kim.daisoon.kr@gmail.com)  \|  [dkim29@
 
 [\[Academic CV\]](https://drive.google.com/file/d/1isPILSPRJgI4W-YEr3EogKauHqYwe98S/view?usp=sharing) [\[Resume\]](/cv/)  
 
-[\[LinkedIn\]](https://www.linkedin.com/in/daisoonkim/)  
-[\[Google Scholar\]](https://scholar.google.com/citations?user=SdO9LbUAAAAJ&hl) 
-[\[ORCID\]](https://orcid.org/0000-0002-2863-4326) <br>
+[\[LinkedIn\]](https://www.linkedin.com/in/daisoonkim/) [\[Google Scholar\]](https://scholar.google.com/citations?user=SdO9LbUAAAAJ&hl) [\[ORCID\]](https://orcid.org/0000-0002-2863-4326) <br>
 
