@@ -13,16 +13,6 @@ layout: default
     </h1>
     <p class="desc">{{ page.subtitle }}</p>
 
-    <!-- Social -->
-    {% if page.social %}
-      <div class="social">
-        <div class="contact-icons">{% social_links %}</div>
-      </div>
-    {% endif %}
-
-    {% if site.newsletter and site.newsletter.enabled and site.footer_fixed %}
-      {% include newsletter.liquid center=true %}
-    {% endif %}
 
   </header>
 
@@ -50,6 +40,14 @@ layout: default
       </div>
     {% endif %}
 
+    <!-- Selected papers -->
+    <h3>Selected R&Rs and Publications</h3>
+    <div class="publications">
+      {% bibliography -f workingpapers -q @*[selected=true]* %}
+
+      {% bibliography -f publications -q @*[selected=true]* %}
+    </div>
+
     <div class="clearfix">{{ content }}</div>
 
     <!-- News -->
@@ -75,6 +73,17 @@ layout: default
 
       {% bibliography -f publications -q @*[selected=true]* %}
     </div>
+
+    <!-- Social -->
+    {% if page.social %}
+      <div class="social">
+        <div class="contact-icons">{% social_links %}</div>
+      </div>
+    {% endif %}
+
+    {% if site.newsletter and site.newsletter.enabled and site.footer_fixed %}
+      {% include newsletter.liquid center=true %}
+    {% endif %}
 
 
   </article>
