@@ -26,17 +26,11 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
+Assistant Professor of Economics 
+North Carolina State University
 
 [\[Academic CV\]](https://drive.google.com/file/d/1isPILSPRJgI4W-YEr3EogKauHqYwe98S/view?usp=sharing) [\[Resume\]](/cv/)
 
 [\[LinkedIn\]](https://www.linkedin.com/in/daisoonkim/)  [\[Google Scholar\]](https://scholar.google.com/citations?user=SdO9LbUAAAAJ&hl) [\[ORCID\]](https://orcid.org/0000-0002-2863-4326)
 
 [\[Publications\]](/publications/)  [\[Workling Papers\]](/workingpapers/)  [\[Works In Progress\]](/projects/) 
-
-
-<!-- Selected papers --> 
-<h3>Selected R&Rs and Publications</h3> 
-    <div class="publications">
-      {% bibliography -f workingpapers -q @*[selected=true]* %}
-      {% bibliography -f publications -q @*[selected=true]* %}
-    </div>
