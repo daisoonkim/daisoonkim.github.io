@@ -6,18 +6,20 @@
 /* Base typography */
 body {
   font-family: 'Source Sans 3', -apple-system, BlinkMacSystemFont, "Segoe UI", Arial, sans-serif;
-  font-size: 17px;
-  line-height: 1.65;
   color: #222;
 }
 
 /* Headings */
-h1, h2, h3, h4, h5, h6 {
+h1 {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 300;
+  letter-spacing: 0.25em;   /* key feature */
+  text-transform: uppercase;
+}
+
+h2, h3, h4, h5, h6 {
   font-family: 'Source Sans 3', sans-serif;
   font-weight: 400;
-  line-height: 1.35;
-  margin-top: 1.2em;
-  margin-bottom: 0.5em;
 }
 
 /* ===== REMOVE RIGHT YEAR COLUMN ===== */
