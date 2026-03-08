@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Projects
+title: PROJECTS
 nav: true
 nav_order: 3
 dropdown: true
