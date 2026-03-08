@@ -13,6 +13,8 @@ nav_order: 1
 
 {% include bib_search.liquid %}
 
+<br>
+
 <h4>
 Working Papers
 </h4>
