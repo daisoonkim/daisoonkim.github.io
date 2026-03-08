@@ -9,7 +9,14 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "nav-publications",
+  },{id: "nav-working-papers",
+          title: "WORKING PAPERS",
+          description: "R&amp;R in JME, JIE, and JMCB",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/workingpapers/";
+          },
+        },{id: "nav-publications",
           title: "PUBLICATIONS",
           description: "JME (x2), JIE, JoEG, IMF ER, JEDC (x2)",
           section: "Navigation",
