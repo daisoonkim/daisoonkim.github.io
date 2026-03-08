@@ -23,16 +23,9 @@ h1 {
   letter-spacing: 0.1em;   /* key feature */
 }
 
-h2 {
-  font-family: 'Montserrat', sans-serif;
+h2, h3, h4, h5, h6 {  font-family: 'Montserrat', sans-serif;
   font-weight: 400;
   letter-spacing: 0.1em;   /* key feature */
-}
-
-
-h3, h4, h5, h6 {
-  font-family: 'Source Sans 3', sans-serif;
-  font-weight: 400;
 }
 
 h1 { font-size: 26px; }
