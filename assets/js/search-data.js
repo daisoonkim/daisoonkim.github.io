@@ -31,7 +31,7 @@ ninja.data = [{
                 window.location.href = "/projects/";
               },
             },{id: "nav-resume",
-          title: "Resume",
+          title: "RESUME",
           description: "Click the PDF icon to download my academic CV.",
           section: "Navigation",
           handler: () => {
