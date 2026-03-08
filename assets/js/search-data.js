@@ -23,21 +23,14 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "dropdown-working-papers",
-              title: "Working Papers",
-              description: "",
-              section: "Dropdown",
-              handler: () => {
-                window.location.href = "/workingpapers/";
-              },
-            },{id: "dropdown-works-in-progress",
-              title: "Works in Progress",
-              description: "",
-              section: "Dropdown",
-              handler: () => {
-                window.location.href = "/projects/";
-              },
-            },{id: "nav-resume",
+        },{id: "nav-projects",
+          title: "PROJECTS",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/_pages/dropdown/";
+          },
+        },{id: "nav-resume",
           title: "RESUME",
           description: "Click the PDF icon to download my academic CV.",
           section: "Navigation",
