@@ -64,9 +64,15 @@ layout: default
     </h4>
     <div class="publications">
       {% bibliography -f workingpapers -q @*[selected=true]* %}
+    </div>
 
+    <h4>
+      Selected Publications
+    </h4>
+    <div class="publications">
       {% bibliography -f publications -q @*[selected=true]* %}
     </div>
+
 
     <!-- Social -->
     {% if page.social %}
