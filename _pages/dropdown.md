@@ -1,9 +1,9 @@
 ---
 layout: page
 title: PROJECTS
-nav: true
+nav: false
 nav_order: 3
-dropdown: false
+dropdown: true
 children:
   - title: Working Papers
     permalink: /workingpapers/
