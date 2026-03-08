@@ -1,7 +1,7 @@
 ---
 layout: cv
 permalink: /cv/
-title: Resume
+title: RESUME
 nav: true
 nav_order: 4
 cv_pdf: https://drive.google.com/file/d/1isPILSPRJgI4W-YEr3EogKauHqYwe98S/view?usp=sharing
