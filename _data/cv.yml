@@ -33,19 +33,19 @@ cv:
         position: Assistant Professor of Economics
         location: Raleigh, NC
         start_date: 2019
-        end_date: current
+        end_date: 
 
       - company: National Bureau of Economic Research
         position: Research Economist
         location: Cambridge, MA
         start_date: 2023
-        end_date: current
+        end_date: 
 
       - company: Global Linkages Lab, Brown University
         position: Affiliate Professor
         location: Providence, RI
         start_date: 2023
-        end_date: current
+        end_date: 
 
       - company: London Business School
         position: Research Fellow in Economics
@@ -65,7 +65,7 @@ cv:
         keywords: "International Finance, Macroeconomics, Trade, Geoeconomics"
       - name: Topics
         icon: fa-solid fa-tag
-        keywords: "Firm Resilience, Firm Dynamics, Business Cycles, Multinationals, Global Value Chain and Investment, Systemic Risk/Uncertainty, Spillover/Network Effects, Geopolitical Tensions, Sanctions"
+        keywords: "Firm Resilience, Firm Dynamics, Business Cycles, Multinationals, Global Value Chain and Investment, Systemic Risk, Economic Uncertainty, Spillover/Network Effects, Market Structure and Concentration, Geopolitical Tensions, Sanctions"
 
     
     Publications:
