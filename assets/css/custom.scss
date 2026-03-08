@@ -12,14 +12,17 @@ body {
 /* Naviation */
 .navbar-nav .nav-link {
   font-family: 'Montserrat', sans-serif;
+  font-weight: 300;
+  letter-spacing: 0.1em;   /* key feature */
+  text-transform: uppercase;
 }
 
 /* Headings */
 h1, h2 {
   font-family: 'Montserrat', sans-serif;
   font-weight: 300;
-  /* letter-spacing: 0.25em;   key feature */
-  /* text-transform: uppercase;*/
+  letter-spacing: 0.1em;   /* key feature */
+  text-transform: uppercase;
 }
 
 h3, h4, h5, h6 {
