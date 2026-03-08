@@ -4,7 +4,7 @@ permalink: /workingpapers/
 title: WORKING PAPERS
 description: R&R in JME, JIE, and JMCB
 nav: true
-nav_order: 1
+nav_order: 3
 ---
 
 <!-- _pages/publications.md -->
