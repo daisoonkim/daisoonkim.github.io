@@ -21,7 +21,10 @@ body {
   letter-spacing: 0.1em;   /* key feature */
   text-transform: uppercase;
 }
-
+.navbar {
+  padding-top: 14px;
+  padding-bottom: 14px;
+}
 /* Headings */
 h1, h2, h3, h4 {  font-family: 'Montserrat', sans-serif;
   font-weight: 400;
