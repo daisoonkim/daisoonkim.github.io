@@ -128,3 +128,13 @@ h4 { font-size: 18px; }
   width: 100%;
   white-space: normal; /* Allows natural wrapping only when truly out of space */
 }
+
+
+/* Links */
+a {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
