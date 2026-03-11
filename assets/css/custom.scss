@@ -129,6 +129,14 @@ h4 { font-size: 18px; }
   white-space: normal; /* Allows natural wrapping only when truly out of space */
 }
 
+/* Link color */
+:root {
+  --global-theme-color: #2c5282;
+}
+
+[data-theme="dark"] {
+  --global-theme-color: #5aa9ff;
+}
 
 /* About page links styled like coauthor links */
 .post a {
