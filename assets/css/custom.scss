@@ -80,14 +80,14 @@ h4 { font-size: 18px; }
 
 /* Shrink the profile image container */
 .profile {
-    width: 40% !important; /* Adjust this percentage to make it even smaller */
-    margin-bottom: 20px;
+    width: 30% !important; /* Adjust this percentage to make it even smaller */
+    margin-bottom: 10px;
 }
 
 /* Ensure the image itself fits the new small container */
 .profile img {
     max-width: 100% !important;
-    height: auto !important;
+    height: auto !important; 
 }
 
 
