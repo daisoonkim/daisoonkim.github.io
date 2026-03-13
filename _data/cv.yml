@@ -67,7 +67,23 @@ cv:
         icon: fa-solid fa-tag
         keywords: "Firm Resilience, Firm Dynamics, Business Cycles, Multinationals, Global Value Chain and Investment, Systemic Risk, Economic Uncertainty, Spillover/Network Effects, Market Structure and Concentration, Geopolitical Tensions, Sanctions"
 
-    
+    Skills:
+      - name: Professional Skills
+        icon: fa-solid fa-tag
+        keywords: "Project Management, Data-Driven Decisions, Quantitative Research"
+      - name: Quantitative Modeling
+        icon: fa-solid fa-tag
+        keywords: "Heterogeneous Firms/Households Dynamics Models, Monte Carlo Simulation, Structural Econometrics"
+      - name: Econometric Analysis
+        icon: fa-solid fa-tag
+        keywords: "Causal Inference (DID, Synthetic Controls), Dynamic Factor Models, Panel Local Projections"
+      - name: Data
+        icon: fa-solid fa-tag
+        keywords: "Complex Data Integration, Panel Data Construction, Unstructured Data"
+      - name: Dataset
+        icon: fa-solid fa-tag
+        keywords: "CRSP, Compustat, FactSet, ORBIS, EPFR, FT fDi Market, LCA, Nielsen Scanner, KLIPS, UN Comtrade"
+
     Publications:
       - title: International Trade and Macroeconomic Dynamics with Sanctions
         authors:
@@ -120,22 +136,5 @@ cv:
           - Daisoon Kim
         publisher: Journal of International Economics
         releaseDate: 2021-07
-
-    Skills:
-      - name: Professional Skills
-        icon: fa-solid fa-tag
-        keywords: "Project Management, Data-Driven Decisions, Quantitative Research"
-      - name: Quantitative Modeling
-        icon: fa-solid fa-tag
-        keywords: "Heterogeneous Firms/Households Dynamics Models, Monte Carlo Simulation, Structural Econometrics"
-      - name: Econometric Analysis
-        icon: fa-solid fa-tag
-        keywords: "Causal Inference (DID, Synthetic Controls), Dynamic Factor Models, Panel Local Projections"
-      - name: Data
-        icon: fa-solid fa-tag
-        keywords: "Complex Data Integration, Panel Data Construction, Unstructured Data"
-      - name: Dataset
-        icon: fa-solid fa-tag
-        keywords: "CRSP, Compustat, FactSet, ORBIS, EPFR, FT fDi Market, LCA, Nielsen Scanner, KLIPS, UN Comtrade"
 
         
