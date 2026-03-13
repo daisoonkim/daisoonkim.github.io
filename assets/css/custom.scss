@@ -87,7 +87,7 @@ h4 { font-size: 18px; }
 /* Ensure the image itself fits the new small container */
 .profile img {
     max-width: 100% !important;
-    height: 100% !important; /*original: auto
+    height: auto !important; 
 }
 
 
