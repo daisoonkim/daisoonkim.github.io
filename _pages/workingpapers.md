@@ -2,7 +2,7 @@
 layout: page
 permalink: /workingpapers/
 title: WORKING PAPERS
-description: R&R in JME, JIE, and JMCB
+description: Accepted in JIE, R&R in JME and JMCB
 nav: true
 nav_order: 3
 ---
