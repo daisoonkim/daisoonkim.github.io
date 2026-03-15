@@ -11,7 +11,7 @@ ninja.data = [{
     },
   },{id: "nav-publications",
           title: "PUBLICATIONS",
-          description: "JME (x2), JIE, JoEG, IMF ER, JEDC (x2)",
+          description: "JME (x2), JIE (x2), JoEG, IMF ER, JEDC (x2)",
           section: "Navigation",
           handler: () => {
             window.location.href = "/publications/";
