@@ -18,7 +18,7 @@ ninja.data = [{
           },
         },{id: "nav-working-papers",
           title: "WORKING PAPERS",
-          description: "R&amp;R in JME, JIE, and JMCB",
+          description: "Accepted in JIE, R&amp;R in JME and JMCB",
           section: "Navigation",
           handler: () => {
             window.location.href = "/workingpapers/";
