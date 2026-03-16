@@ -85,6 +85,13 @@ cv:
         keywords: "CRSP, Compustat, FactSet, ORBIS, EPFR, FT fDi Market, LCA, Nielsen Scanner, KLIPS, UN Comtrade"
 
     Publications:
+      - title: Multinational Investment Activity under Policy Uncertainty in Host and Competing Countries
+        authors:
+          - Daisoon Kim
+          - Sunhyeong Lee
+        publisher: Journal of International Economics
+        releaseDate: Accepted
+        
       - title: International Trade and Macroeconomic Dynamics with Sanctions
         authors:
           - Fabio Ghironi
