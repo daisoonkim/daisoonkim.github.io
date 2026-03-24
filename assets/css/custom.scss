@@ -3,6 +3,13 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;600;700&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Source+Sans+3:wght@300;400;500;600&display=swap');
 
+/* Force navbar to stay expanded */
+@media (max-width: 768px) {
+  .navbar-nav {
+    font-size: 0.9rem;
+  }
+}
+
 /* Base typography */
 body {
   font-family: 'Source Sans 3', -apple-system, BlinkMacSystemFont, "Segoe UI", Arial, sans-serif;
