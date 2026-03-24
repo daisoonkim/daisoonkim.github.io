@@ -3,8 +3,8 @@ const ninja = document.querySelector('ninja-keys');
 
 // add the home and posts menu items
 ninja.data = [{
-    id: "nav-daisoon-kim",
-    title: "Daisoon Kim",
+    id: "nav-about",
+    title: "ABOUT",
     section: "Navigation",
     handler: () => {
       window.location.href = "/";
