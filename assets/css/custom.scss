@@ -159,3 +159,8 @@ h4 { font-size: 18px; }
 .social a i:hover {
   opacity: 1;
 }
+
+.social a {
+  text-decoration: none !important;
+  border-bottom: none !important;
+}
