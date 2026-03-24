@@ -1,6 +1,6 @@
 ---
 layout: about
-title: ABOUT
+title: Daisoon Kim
 permalink: /
 subtitle: Pronounced as "Day-Soon"
 
