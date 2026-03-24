@@ -160,7 +160,13 @@ h4 { font-size: 18px; }
   opacity: 1;
 }
 
+/* Remove underline for social icons only */
 .social a {
+  text-decoration: none !important;
+  border-bottom: none !important;
+}
+
+.social a:hover {
   text-decoration: none !important;
   border-bottom: none !important;
 }
