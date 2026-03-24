@@ -4,8 +4,9 @@
 cv_pdf: https://drive.google.com/file/d/1isPILSPRJgI4W-YEr3EogKauHqYwe98S/view?usp=sharing # path to your CV PDF file
 email: kim.daisoon.kr@gmail.com
 scholar_userid: SdO9LbUAAAAJ
-orcid: 0000-0002-2863-4326
+orcid_id: 0000-0002-2863-4326
 linkedin_username: daisoonkim 
+x_username: DaisoonKim
 #custom_social: # can be any name here other than the ones already defined in the jekyll-socials plugin
 #  logo: https://www.alberteinstein.com/wp-content/uploads/2024/03/cropped-favicon-192x192.png # can be png, svg, jpg
 #  title: Custom Social
