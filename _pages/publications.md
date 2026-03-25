@@ -5,7 +5,7 @@ title: PUBLICATIONS
 description: JME (x2), JIE (x2), JoEG, IMF ER, JEDC (x2)
 nav: true
 nav_order: 2
-bib_search: true
+bib_search: false
 ---
 
 <!-- _pages/publications.md -->
