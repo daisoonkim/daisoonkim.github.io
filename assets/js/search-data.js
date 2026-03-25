@@ -10,14 +10,14 @@ ninja.data = [{
       window.location.href = "/";
     },
   },{id: "dropdown-publications",
-              title: "publications",
+              title: "Publications",
               description: "",
               section: "Dropdown",
               handler: () => {
                 window.location.href = "/publications/";
               },
             },{id: "dropdown-working-papers",
-              title: "WORKING PAPERS",
+              title: "Working Papers",
               description: "",
               section: "Dropdown",
               handler: () => {
