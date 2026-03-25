@@ -8,6 +8,6 @@ children:
   - title: Publications
     permalink: /publications/
   - title: divider
-  - title:  Working Papers
+  - title: Working Papers
     permalink: /workingpapers/
 ---
