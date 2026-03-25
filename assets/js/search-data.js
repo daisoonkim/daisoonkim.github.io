@@ -9,14 +9,7 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "nav-working-papers",
-          title: "WORKING PAPERS",
-          description: "R&amp;R in JME and JMCB",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/workingpapers/";
-          },
-        },{id: "nav-resume",
+  },{id: "nav-resume",
           title: "RESUME",
           description: "Click the PDF icon to download my academic CV.",
           section: "Navigation",
