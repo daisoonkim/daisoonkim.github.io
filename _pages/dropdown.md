@@ -1,13 +1,13 @@
 ---
 layout: page
-title: PROJECTS
+title: RESEARCH
 nav: false
-nav_order: 3
+nav_order: 2
 dropdown: true
 children:
-  - title: Working Papers
-    permalink: /workingpapers/
+  - title: publications
+    permalink: /publications/
   - title: divider
-  - title: Works in Progress
-    permalink: /projects/
+  - title:  WORKING PAPERS
+    permalink: /workingpapers/
 ---
