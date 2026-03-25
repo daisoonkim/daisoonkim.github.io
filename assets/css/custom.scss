@@ -3,23 +3,7 @@
 
 /* Force navbar to stay expanded on mobile */
 .navbar-collapse {
-  display: flex !important;
-  flex-basis: auto !important;
-}
-
-/* Hide hamburger toggle button */
-.navbar-toggler {
-  display: none !important;
-}
-
-/* Make nav items horizontal */
-.navbar-nav {
-  flex-direction: row !important;
-}
-
-/* Adjust spacing for mobile */
-.navbar-nav .nav-item {
-  margin-left: 10px;
+  display: block;
 }
 
 
