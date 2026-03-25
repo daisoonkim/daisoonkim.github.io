@@ -1,6 +1,6 @@
 ---
 layout: about
-title: ABOUT
+title: HOME
 permalink: /
 subtitle: Pronounced as "Day-Soon"
 
