@@ -1,25 +1,27 @@
 ---
 ---
 
-/* Force navbar always expanded */
-@media (max-width: 991px) {
-  .navbar-expand-lg .navbar-collapse {
-    display: flex !important;
-    flex-basis: auto !important;
-  }
-
-  .navbar-expand-lg .navbar-toggler {
-    display: none !important;
-  }
-
-  .navbar-expand-lg .navbar-nav {
-    flex-direction: row !important;
-  }
-
-  .navbar-expand-lg .nav-item {
-    margin-left: 10px;
-  }
+/* Force navbar to stay expanded on mobile */
+.navbar-collapse {
+  display: flex !important;
+  flex-basis: auto !important;
 }
+
+/* Hide hamburger toggle button */
+.navbar-toggler {
+  display: none !important;
+}
+
+/* Make nav items horizontal */
+.navbar-nav {
+  flex-direction: row !important;
+}
+
+/* Adjust spacing for mobile */
+.navbar-nav .nav-item {
+  margin-left: 10px;
+}
+
 
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;600;700&display=swap');
