@@ -9,7 +9,21 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "nav-resume",
+  },{id: "dropdown-publications",
+              title: "publications",
+              description: "",
+              section: "Dropdown",
+              handler: () => {
+                window.location.href = "/publications/";
+              },
+            },{id: "dropdown-working-papers",
+              title: "WORKING PAPERS",
+              description: "",
+              section: "Dropdown",
+              handler: () => {
+                window.location.href = "/workingpapers/";
+              },
+            },{id: "nav-resume",
           title: "RESUME",
           description: "Click the PDF icon to download my academic CV.",
           section: "Navigation",
