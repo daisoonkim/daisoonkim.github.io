@@ -38,6 +38,10 @@ Email: [kim.daisoon.kr@gmail.com](mailto:kim.daisoon.kr@gmail.com)  \|  [dkim29@
 
   <a href="/cv/"
      class="btn btn-sm z-depth-0">Resume</a>
+ <a href="https://drive.google.com/file/d/1isPILSPRJgI4W-YEr3EogKauHqYwe98S/view?usp=sharing"
+    class="btn btn-sm z-depth-0">
+  <i class="fas fa-file-pdf"></i> Academic CV
+  </a>   
 </div>
 
 
