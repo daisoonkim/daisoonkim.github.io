@@ -29,8 +29,8 @@ Research Economist, National Bureau of Economic Research<br>
 Affiliate Professor, Global Linkages Lab, Brown University
 
 
-Email: [kim.daisoon.kr@gmail.com](mailto:kim.daisoon.kr@gmail.com)  \|  [dkim29@ncsu.edu](mailto:dkim29@ncsu.edu)  
-
+Email: [kim.daisoon.kr@gmail.com](mailto:kim.daisoon.kr@gmail.com)  \|  [dkim29@ncsu.edu](mailto:dkim29@ncsu.edu) <br> 
+Focus: International Economics, Macroeconomics, Geoeconomics
 
 <div style="margin-top:8px;">
   <a href="https://drive.google.com/file/d/1isPILSPRJgI4W-YEr3EogKauHqYwe98S/view" class="cv-btn">Academic CV</a>
