@@ -171,22 +171,18 @@ h4 { font-size: 18px; }
 }
 
 .cv-btn {
-  border: 1px solid #333;
+  border: 1px;
+  font-weight: 400;
   padding: 4px 10px;
   font-size: 0.6rem;
-  font-weight: 500;
   text-transform: uppercase;
-  color: #333;
   text-decoration: none;
   display: inline-block;
   margin-right: 6px;
-  font-family: 'Source Sans 3';
-  border-radius: 1px;
+  border-radius: 2px;
   line-height: 1.2;
 }
 
 .cv-btn:hover {
-  background-color: #333;
-  color: #fff;
-  text-decoration: none;
+  opacity: 1;
 }
