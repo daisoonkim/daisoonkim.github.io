@@ -38,5 +38,8 @@ Email: [kim.daisoon.kr@gmail.com](mailto:kim.daisoon.kr@gmail.com)  \|  [dkim29@
 </div>
 
 
-[Google Scholar](https://scholar.google.com/citations?user=SdO9LbUAAAAJ&hl)  \|  [ORCID](https://orcid.org/0000-0002-2863-4326) \| [LinkedIn](https://www.linkedin.com/in/daisoonkim/) 
-
+<div style="margin-top:8px;">
+  <a href="https://scholar.google.com/citations?user=SdO9LbUAAAAJ" class="cv-btn">Google Scholar</a>
+  <a href="https://orcid.org/0000-0002-2863-4326" class="cv-btn">ORCID</a>
+  <a href="https://www.linkedin.com/in/daisoonkim" class="cv-btn">LinkedIn</a>
+</div>
