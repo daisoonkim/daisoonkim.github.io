@@ -137,8 +137,8 @@ h4 { font-size: 18px; }
   --global-theme-color: #5aa9ff;
 }
 
-/* About page links styled like coauthor links 
-/*.post a {
+/* About page links styled like coauthor links */
+.post a {
   border-bottom: 1px dashed var(--global-theme-color);
   text-decoration: none;
 }
@@ -146,7 +146,7 @@ h4 { font-size: 18px; }
 .post a:hover {
   border-bottom: 1px solid var(--global-theme-color);
 }
-*/
+
 
 
 /* Reduce social icon size on About page */
@@ -174,7 +174,7 @@ h4 { font-size: 18px; }
   border: 1px solid;
   font-weight: 400;
   padding: 4px 10px;
-  font-size: 0.6rem;
+  font-size: 0.75rem;
   text-transform: uppercase;
   text-decoration: none;
   display: inline-block;
