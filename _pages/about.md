@@ -6,7 +6,7 @@ subtitle: Pronounced as "Day-Soon"
 
 profile:
   align: right
-  image: daisoon_kim_500x500px.png
+  image: daisoonkim_horizontal.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     
