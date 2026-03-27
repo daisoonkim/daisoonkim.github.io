@@ -32,16 +32,9 @@ Affiliate Professor, Global Linkages Lab, Brown University
 Email: [kim.daisoon.kr@gmail.com](mailto:kim.daisoon.kr@gmail.com)  \|  [dkim29@ncsu.edu](mailto:dkim29@ncsu.edu)  
 
 
-<div class="btn-group" role="group">
-  <a href="https://drive.google.com/file/d/1isPILSPRJgI4W-YEr3EogKauHqYwe98S/view?usp=sharing"
-     class="btn btn-sm z-depth-0" target="_blank">Academic CV</a>
-
-  <a href="/cv/"
-     class="btn btn-sm z-depth-0">Resume</a>
- <a href="https://drive.google.com/file/d/1isPILSPRJgI4W-YEr3EogKauHqYwe98S/view?usp=sharing"
-    class="btn btn-sm z-depth-0">
-  <i class="fas fa-file-pdf"></i> Academic CV
-  </a>   
+<div style="margin-top:10px;">
+  <a href="https://drive.google.com/file/d/1isPILSPRJgI4W-YEr3EogKauHqYwe98S/view" class="cv-btn">Academic CV</a>
+  <a href="/cv/" class="cv-btn">Resume</a>
 </div>
 
 
