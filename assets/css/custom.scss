@@ -185,5 +185,8 @@ h4 { font-size: 18px; }
 }
 
 .cv-btn:hover {
+  background-color: var(--global-text-color) !important;
+  color: var(--global-bg-color) !important; 
+  text-decoration: none !important;
   opacity: 1;
 }
