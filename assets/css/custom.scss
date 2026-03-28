@@ -39,6 +39,11 @@ h2 { font-size: 26px; }
 h3 { font-size: 21px; }
 h4 { font-size: 18px; }
 
+/* CV  size */
+.card.mt-3.p-3 {
+  font-size: 0.85rem;
+}
+
 /* ===== REMOVE RIGHT YEAR COLUMN ===== */
 .publications h2.bibliography {
   display: none !important;
