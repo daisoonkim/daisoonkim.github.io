@@ -25,17 +25,3 @@ Working Papers
 
 </div>
 
-<!--<br>
-
-
-<h4>
-Works in Progress
-</h4>
-
-<div class="publications">
-  
-{% bibliography -f papers %}
--->
-
-
-</div>
