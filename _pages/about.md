@@ -24,7 +24,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Assistant Professor of Economics, NC State University <i>(on leave)</i> <br>
+Assistant Professor of Economics, NC State University <i>(on leave, 2026—)</i> <br>
 Research Economist, National Bureau of Economic Research<br>
 Affiliate Professor, Global Linkages Lab, Brown University
 
