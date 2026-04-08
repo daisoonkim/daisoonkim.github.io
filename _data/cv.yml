@@ -29,12 +29,18 @@ cv:
         end_date: 2019
 
     Experience:
+      - company: Andersen Institute for Finance and Economics
+        position: Scholar
+        location: Washington, DC
+        start_date: 2026
+        end_date: 
+        
       - company: Poole College of Management, NC State University
         position: Assistant Professor of Economics 
         location: Raleigh, NC
         start_date: 2019
         end_date: 
-        summary: on leave, 2026
+        summary: on leave, 2026–
 
       - company: National Bureau of Economic Research
         position: Research Economist
