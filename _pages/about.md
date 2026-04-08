@@ -24,8 +24,9 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
+Scholar, Andersen Institute for Finance and Economics <br>
 Assistant Professor of Economics, NC State University <i>(on leave, 2026–)</i> <br>
-Research Economist, National Bureau of Economic Research<br>
+Research Economist, National Bureau of Economic Research <br>
 Affiliate Professor, Global Linkages Lab, Brown University
 
 
