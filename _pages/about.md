@@ -6,7 +6,7 @@ subtitle: Pronounced as "Day-Soon"
 
 profile:
   align: right
-  image: 1775856026304~2.jpg
+  image: daisoon1~3.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     
