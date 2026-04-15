@@ -44,3 +44,9 @@ Focus: International Economics, Macroeconomics, Geoeconomics
   <a href="https://orcid.org/0000-0002-2863-4326" class="cv-btn">ORCID</a>
   <a href="https://www.linkedin.com/in/daisoonkim" class="cv-btn">LinkedIn</a>
 </div>
+
+
+<div style="margin-top:8px;">
+  <a href="https://anderseninstitute.org/daisoon-kim/" class="cv-btn">Andersen Web</a>
+  <a href="https://poole.ncsu.edu/people/daisoon-kim" class="cv-btn">NC State Web</a>
+</div>
