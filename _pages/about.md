@@ -47,6 +47,6 @@ Focus: International Economics, Macroeconomics, Geoeconomics
 
 
 <div style="margin-top:8px;">
-  <a href="https://anderseninstitute.org/daisoon-kim/" class="cv-btn">Andersen Web</a>
-  <a href="https://poole.ncsu.edu/people/daisoon-kim" class="cv-btn">NC State Web</a>
+  <a href="https://anderseninstitute.org/daisoon-kim/" class="cv-btn">Andersen Website</a>
+  <a href="https://poole.ncsu.edu/people/daisoon-kim" class="cv-btn">NC State Website</a>
 </div>
