@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-04-01'
+  last_updated: '2026-04-20'
 papers:
   SdO9LbUAAAAJ:2osOgNQ5qMEC:
     citations: 3
@@ -8,10 +8,6 @@ papers:
   SdO9LbUAAAAJ:4DMP91E08xMC:
     citations: 6
     title: Home market effects and increasing returns with non-constant marginal costs
-    year: '2024'
-  SdO9LbUAAAAJ:4TOpqqG69KYC:
-    citations: 4
-    title: Multinational Investment Activity under Policy Uncertainty  in Host and Competing Countries
     year: '2024'
   SdO9LbUAAAAJ:IWHjjKOFINEC:
     citations: 0
@@ -62,7 +58,7 @@ papers:
     title: Consumer Learning and Package Size in Dynamic Brand Choice
     year: '2025'
   SdO9LbUAAAAJ:_kc_bZDykSQC:
-    citations: 6
+    citations: 8
     title: Parental leave policies, fertility, and labor supply
     year: '2025'
   SdO9LbUAAAAJ:aqlVkmm33-oC:
@@ -74,13 +70,17 @@ papers:
     title: 'Industry Characteristics and the Home Market Effect: Evidence from Manufacturing Trade'
     year: '2025'
   SdO9LbUAAAAJ:hqOjcs7Dif8C:
-    citations: 35
+    citations: 36
     title: International Economic Sanctions and Third-Country Effects
     year: '2024'
   SdO9LbUAAAAJ:mVmsd5A6BfQC:
     citations: 2
     title: 'Trade search frictions: Public information, exports, and concentration'
     year: '2024'
+  SdO9LbUAAAAJ:qUcmZB5y_30C:
+    citations: 4
+    title: Multinational investment activity under policy uncertainty in host and competing countries
+    year: '2026'
   SdO9LbUAAAAJ:roLk4NBRz8UC:
     citations: 6
     title: Firm revenue elasticity and business cycle sensitivity
