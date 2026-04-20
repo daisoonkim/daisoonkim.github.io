@@ -25,7 +25,7 @@ latest_posts:
 ---
 
 Scholar, Andersen Institute for Finance and Economics <br>
-Assistant Professor of Economics, NC State University <i>(on leave, 2026–)</i> <br>
+Assistant Professor, NC State University <i>(on leave, 2026–)</i> <br>
 Research Economist, National Bureau of Economic Research <br>
 Affiliate Professor, Global Linkages Lab, Brown University
 
