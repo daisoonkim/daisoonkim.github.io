@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-04-20'
+  last_updated: '2026-04-27'
 papers:
   SdO9LbUAAAAJ:2osOgNQ5qMEC:
     citations: 3
@@ -30,7 +30,7 @@ papers:
     title: 'International firms: More exposed but more resilient during Covid-19'
     year: Unknown Year
   SdO9LbUAAAAJ:UebtZRa9Y70C:
-    citations: 34
+    citations: 35
     title: International trade and macroeconomic dynamics with sanctions
     year: '2025'
   SdO9LbUAAAAJ:W7OEmFMy1HYC:
@@ -69,6 +69,10 @@ papers:
     citations: 1
     title: 'Industry Characteristics and the Home Market Effect: Evidence from Manufacturing Trade'
     year: '2025'
+  SdO9LbUAAAAJ:hC7cP41nSMkC:
+    citations: 5
+    title: 'Sanctions on Russia: International trade and macroeconomic dynamics (Working Paper No. 32188)'
+    year: '2024'
   SdO9LbUAAAAJ:hqOjcs7Dif8C:
     citations: 36
     title: International Economic Sanctions and Third-Country Effects
