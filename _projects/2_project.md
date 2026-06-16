@@ -1,12 +1,14 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image and giscus comments
-img: assets/img/3.jpg
-importance: 2
-category: work
-giscus_comments: true
+title: VoxEU  Oct~2024
+description: International trade and macroeconomic dynamics with sanctions
+img: assets/img/VoxEU.png
+redirect: https://cepr.org/voxeu/columns/international-trade-and-macroeconomic-dynamics-sanctions
+importance: 1
+category: fun
+related_publications: true
 ---
+
 
 Every project has a beautiful feature showcase page.
 It's easy to include images in a flexible 3-column grid format.
@@ -79,3 +81,4 @@ Here's the code for the last row of images above:
 ```
 
 {% endraw %}
+
