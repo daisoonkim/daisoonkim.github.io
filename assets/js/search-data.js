@@ -451,9 +451,9 @@ ninja.data = [{
           description: "Economic sanctions; Lessons from the Russia-Ukraine conflict",
           section: "Projects",handler: () => {
               window.location.href = "/projects/5_project/";
-            },},{id: "projects-arc-blog",
-          title: 'ARC Blog',
-          description: "AI financial advisors are blind to market opportunity (3 June 2026)",
+            },},{id: "projects-jun-2026",
+          title: 'Jun 2026',
+          description: "AI financial advisors are blind to market opportunity",
           section: "Projects",handler: () => {
               window.location.href = "/projects/7_project/";
             },},{id: "projects-project-8",
