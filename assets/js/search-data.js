@@ -426,9 +426,9 @@ ninja.data = [{
           description: "The effects of parental leave policy reforms on fertility and gender gaps",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
-            },},{id: "projects-column",
-          title: 'Column',
-          description: "International trade and macroeconomic dynamics with sanctions (4 Oct 2024)",
+            },},{id: "projects-oct-2024",
+          title: 'Oct 2024',
+          description: "International trade and macroeconomic dynamics with sanctions",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
             },},{id: "projects-oct-2020",
