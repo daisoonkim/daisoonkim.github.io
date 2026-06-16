@@ -1,12 +1,14 @@
 ---
 layout: page
-title: project 3 with very long name
-description: a project that redirects to another website
-img: assets/img/7.jpg
-redirect: https://unsplash.com
-importance: 3
-category: work
+title: VoxEU Columns
+description: Global connectedness and market power make firms more resilient to domestic COVID-19 shocks (17 Mar 2025)
+img: assets/img/VoxEU.png
+redirect: https://cepr.org/voxeu/columns/global-connectedness-and-market-power-make-firms-more-resilient-domestic-covid-19
+importance: 1
+category: fun
+related_publications: true
 ---
+
 
 Every project has a beautiful feature showcase page.
 It's easy to include images in a flexible 3-column grid format.
@@ -79,3 +81,4 @@ Here's the code for the last row of images above:
 ```
 
 {% endraw %}
+
