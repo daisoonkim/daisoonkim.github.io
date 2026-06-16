@@ -426,6 +426,11 @@ ninja.data = [{
           description: "The effects of parental leave policy reforms on fertility and gender gaps",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
+            },},{id: "projects-business-insights",
+          title: 'Business Insights',
+          description: "Regional conflict in the Gulf and the global capital realignment (15 June 2026)",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/21_project/";
             },},{id: "projects-oct-2024",
           title: 'Oct 2024',
           description: "International trade and macroeconomic dynamics with sanctions",
@@ -446,11 +451,6 @@ ninja.data = [{
           description: "Economic sanctions; Lessons from the Russia-Ukraine conflict",
           section: "Projects",handler: () => {
               window.location.href = "/projects/5_project/";
-            },},{id: "projects-business-insights",
-          title: 'Business Insights',
-          description: "Regional conflict in the Gulf and the global capital realignment (15 June 2026)",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/6_project/";
             },},{id: "projects-arc-blog",
           title: 'ARC Blog',
           description: "AI financial advisors are blind to market opportunity (3 June 2026)",
