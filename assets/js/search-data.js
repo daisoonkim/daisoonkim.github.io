@@ -451,9 +451,9 @@ ninja.data = [{
           description: "Regional conflict in the Gulf and the global capital realignment (15 June 2026)",
           section: "Projects",handler: () => {
               window.location.href = "/projects/6_project/";
-            },},{id: "projects-project-7",
-          title: 'project 7',
-          description: "with background image",
+            },},{id: "projects-arc-blog",
+          title: 'ARC Blog',
+          description: "AI financial advisors are blind to market opportunity (3 June 2026)",
           section: "Projects",handler: () => {
               window.location.href = "/projects/7_project/";
             },},{id: "projects-project-8",
