@@ -2,7 +2,7 @@
 layout: page
 title: ARTICLES
 permalink: /projects/
-description: Blogs, Columns, Notes
+description: News Articles, Columns, Notes, Briefs
 nav: true
 nav_order: 4
 display_categories: [columns, notes]
