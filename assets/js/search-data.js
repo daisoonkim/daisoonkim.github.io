@@ -421,8 +421,8 @@ ninja.data = [{
           description: "The effects of parental leave policy reforms on fertility and gender gaps (17 Mar 2025)",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
-            },},{id: "projects-voxeu-column",
-          title: 'VoxEU Column',
+            },},{id: "projects-column",
+          title: 'Column',
           description: "International trade and macroeconomic dynamics with sanctions (4 Oct 2024)",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
