@@ -24,7 +24,7 @@ ninja.data = [{
             window.location.href = "/workingpapers/";
           },
         },{id: "nav-articles",
-          title: "Articles",
+          title: "ARTICLES",
           description: "Blogs, Columns, Notes",
           section: "Navigation",
           handler: () => {
