@@ -1,11 +1,14 @@
 ---
 layout: page
-title: project 5
-description: a project with a background image
-img: assets/img/1.jpg
-importance: 3
+title: Poole Thought Leadership 
+description: Economic sanctions: Lessons from the Russia-Ukraine conflict (26 Feb 2024)
+img: assets/img/PooleThought.png
+redirect: https://poole.ncsu.edu/thought-leadership/article/economic-sanctions-lessons-from-the-russia-ukraine-conflict
+importance: 2
 category: fun
+related_publications: true
 ---
+
 
 Every project has a beautiful feature showcase page.
 It's easy to include images in a flexible 3-column grid format.
@@ -78,3 +81,4 @@ Here's the code for the last row of images above:
 ```
 
 {% endraw %}
+
