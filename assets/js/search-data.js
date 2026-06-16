@@ -23,19 +23,19 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/workingpapers/";
           },
-        },{id: "nav-resume",
-          title: "RESUME",
-          description: "Click the PDF icon to download my academic CV.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/cv/";
-          },
         },{id: "nav-projects",
           title: "projects",
           description: "A growing collection of your cool projects.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/projects/";
+          },
+        },{id: "nav-resume",
+          title: "RESUME",
+          description: "Click the PDF icon to download my academic CV.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/cv/";
           },
         },{id: "post-a-post-with-plotly-js",
         
