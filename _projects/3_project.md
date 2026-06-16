@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Column
-description: Global connectedness and market power make firms more resilient to domestic COVID-19 shocks (17 Mar 2025)
+description: Global connectedness and market power make firms more resilient to domestic COVID-19 shocks (10 Oct 2020)
 img: assets/img/VoxEU.png
 redirect: https://cepr.org/voxeu/columns/global-connectedness-and-market-power-make-firms-more-resilient-domestic-covid-19
 importance: 2
