@@ -1,11 +1,14 @@
 ---
 layout: page
-title: project 4
-description: another without an image
-img:
-importance: 3
+title: Poole Thought Leadership 
+description: The (real) weight of words (9 April 2024)
+img: assets/img/PooleThought.png
+redirect: https://poole.ncsu.edu/thought-leadership/article/the-real-weight-of-words/
+importance: 1
 category: fun
+related_publications: true
 ---
+
 
 Every project has a beautiful feature showcase page.
 It's easy to include images in a flexible 3-column grid format.
@@ -78,3 +81,4 @@ Here's the code for the last row of images above:
 ```
 
 {% endraw %}
+
