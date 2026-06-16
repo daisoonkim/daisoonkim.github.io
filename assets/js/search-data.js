@@ -416,9 +416,9 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-interview",
-          title: 'Interview',
-          description: "Complete U.S.-China decoupling impossible... Xi is more resilient than Trump (1 May 2025)",
+          section: "News",},{id: "projects-may-2025",
+          title: 'May 2025',
+          description: "Complete U.S.-China decoupling impossible... Xi is more resilient than Trump",
           section: "Projects",handler: () => {
               window.location.href = "/projects/11_project/";
             },},{id: "projects-mar-2025",
