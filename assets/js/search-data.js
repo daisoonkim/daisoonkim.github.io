@@ -436,9 +436,9 @@ ninja.data = [{
           description: "Global connectedness and market power make firms more resilient to domestic COVID-19 shocks",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
-            },},{id: "projects-column",
-          title: 'Column',
-          description: "The (real) weight of words (9 April 2024)",
+            },},{id: "projects-apr-2024",
+          title: 'Apr 2024',
+          description: "The (real) weight of words",
           section: "Projects",handler: () => {
               window.location.href = "/projects/4_project/";
             },},{id: "projects-column",
