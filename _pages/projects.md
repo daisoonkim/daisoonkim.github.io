@@ -5,7 +5,7 @@ permalink: /projects/
 description: Blogs, Columns, Notes
 nav: true
 nav_order: 4
-display_categories: [work, fun]
+display_categories: [columns, notes]
 horizontal: false
 ---
 
