@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Poole Thought Leadership 
+title: Column
 description: The (real) weight of words (9 April 2024)
 img: assets/img/PooleThought.png
 redirect: https://poole.ncsu.edu/thought-leadership/article/the-real-weight-of-words/
