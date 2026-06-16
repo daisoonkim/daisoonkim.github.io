@@ -421,9 +421,9 @@ ninja.data = [{
           description: "Complete U.S.-China decoupling impossible... Xi is more resilient than Trump (1 May 2025)",
           section: "Projects",handler: () => {
               window.location.href = "/projects/11_project/";
-            },},{id: "projects-column",
-          title: 'Column',
-          description: "The effects of parental leave policy reforms on fertility and gender gaps (17 Mar 2025)",
+            },},{id: "projects-mar-2025",
+          title: 'Mar 2025',
+          description: "The effects of parental leave policy reforms on fertility and gender gaps",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
             },},{id: "projects-column",
