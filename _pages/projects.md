@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Articles
+title: ARTICLES
 permalink: /projects/
 description: Blogs, Columns, Notes
 nav: true
