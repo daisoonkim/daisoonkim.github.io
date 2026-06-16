@@ -426,9 +426,9 @@ ninja.data = [{
           description: "International trade and macroeconomic dynamics with sanctions",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
-            },},{id: "projects-project-3-with-very-long-name",
-          title: 'project 3 with very long name',
-          description: "a project that redirects to another website",
+            },},{id: "projects-voxeu-columns",
+          title: 'VoxEU Columns',
+          description: "Global connectedness and market power make firms more resilient to domestic COVID-19 shocks (17 Mar 2025)",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
             },},{id: "projects-project-4",
