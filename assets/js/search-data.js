@@ -431,8 +431,8 @@ ninja.data = [{
           description: "Global connectedness and market power make firms more resilient to domestic COVID-19 shocks (17 Mar 2025)",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
-            },},{id: "projects-poole-thought-leadership",
-          title: 'Poole Thought Leadership',
+            },},{id: "projects-column",
+          title: 'Column',
           description: "The (real) weight of words (9 April 2024)",
           section: "Projects",handler: () => {
               window.location.href = "/projects/4_project/";
