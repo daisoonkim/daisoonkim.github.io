@@ -416,8 +416,8 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-voxeu-column",
-          title: 'VoxEU Column',
+          section: "News",},{id: "projects-column",
+          title: 'Column',
           description: "The effects of parental leave policy reforms on fertility and gender gaps (17 Mar 2025)",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
