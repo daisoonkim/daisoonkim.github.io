@@ -23,14 +23,7 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/workingpapers/";
               },
-            },{id: "nav-working-papers",
-          title: "WORKING PAPERS",
-          description: "R&amp;R in JME and JMCB",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/workingpapers/";
-          },
-        },{id: "nav-articles",
+            },{id: "nav-articles",
           title: "ARTICLES",
           description: "News Articles, Columns, Notes, Briefs",
           section: "Navigation",
