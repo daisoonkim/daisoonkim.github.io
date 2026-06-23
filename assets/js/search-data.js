@@ -458,6 +458,11 @@ ninja.data = [{
               window.location.href = "/projects/5_project/";
             },},{id: "projects-jun-2026",
           title: 'Jun 2026',
+          description: "An era of weaponized interdependence begins; What the Hormuz Shock Taught Markets and Policymakers",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/6_project/";
+            },},{id: "projects-jun-2026",
+          title: 'Jun 2026',
           description: "Most robo-advisers will never profit from Wall Street’s AI-generated stock picks",
           section: "Projects",handler: () => {
               window.location.href = "/projects/7_project/";
