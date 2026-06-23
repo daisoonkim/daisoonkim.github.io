@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Jun 2026
-description: An era of weaponized interdependence begins; What the Hormuz Shock Taught Markets and Policymakers
+description: An era of weaponized interdependence begins; What the hormuz shock taught markets and policymakers
 img: assets/img/Andersen.png
 redirect: https://anderseninstitute.org/the-era-of-weaponized-interdependence-has-begun/
 importance: 1
