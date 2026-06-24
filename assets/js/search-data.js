@@ -421,11 +421,6 @@ ninja.data = [{
           description: "Complete U.S.-China decoupling impossible... Xi is more resilient than Trump",
           section: "Projects",handler: () => {
               window.location.href = "/projects/11_project/";
-            },},{id: "projects-apr-2023",
-          title: 'Apr 2023',
-          description: "Covid-19 crisis and shifts in the corporate competitive landscape; Comparisons with previous economic crises",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/12_project/";
             },},{id: "projects-mar-2025",
           title: 'Mar 2025',
           description: "The effects of parental leave policy reforms on fertility and gender gaps",
@@ -441,6 +436,11 @@ ninja.data = [{
           description: "International trade and macroeconomic dynamics with sanctions",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
+            },},{id: "projects-apr-2023",
+          title: 'Apr 2023',
+          description: "Covid-19 crisis and shifts in the corporate competitive landscape; Comparisons with previous economic crises",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/31_project/";
             },},{id: "projects-oct-2020",
           title: 'Oct 2020',
           description: "Global connectedness and market power make firms more resilient to domestic COVID-19 shocks",
