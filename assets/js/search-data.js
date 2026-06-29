@@ -426,9 +426,9 @@ ninja.data = [{
           description: "The effects of parental leave policy reforms on fertility and gender gaps",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
-            },},{id: "projects-",
-          title: '',
-          description: "",
+            },},{id: "projects-jun-2026",
+          title: 'Jun 2026',
+          description: "Regional conflict in the Gulf and the global capital realignment",
           section: "Projects",handler: () => {
               window.location.href = "/projects/21_project/";
             },},{id: "projects-oct-2024",
