@@ -6,6 +6,7 @@ redirect: https://cepr.org/voxeu/columns/effects-parental-leave-policy-reforms-f
 importance: 2
 category: columns
 related_publications: true
+img: 
 ---
 
 
