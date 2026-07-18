@@ -6,4 +6,5 @@ redirect: https://www.kiep.go.kr/gallery.es?mid=a20301000000&bid=0007&list_no=10
 importance: 2
 category: notes
 related_publications: true
+img: 
 ---
