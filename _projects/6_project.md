@@ -6,6 +6,7 @@ redirect: https://anderseninstitute.org/the-era-of-weaponized-interdependence-ha
 importance: 1
 category: columns
 related_publications: true
+img: 
 ---
 
 
