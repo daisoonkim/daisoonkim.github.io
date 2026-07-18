@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Feb 2024
-description: Economic sanctions; Lessons from the Russia-Ukraine conflict
+description: (Poole Thought Leadership) Economic sanctions; Lessons from the Russia-Ukraine conflict
 redirect: https://poole.ncsu.edu/thought-leadership/article/economic-sanctions-lessons-from-the-russia-ukraine-conflict
 importance: 599
 category: Others
