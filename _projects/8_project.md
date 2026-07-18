@@ -6,6 +6,7 @@ redirect: https://anderseninstitute.org/ai-financial-advisors-are-blind-to-marke
 importance: 1
 category: columns
 related_publications: true
+img: 
 ---
 
 
