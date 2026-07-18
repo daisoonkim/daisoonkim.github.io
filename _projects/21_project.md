@@ -1,11 +1,11 @@
 ---
 layout: page
 title: Jun 2026
-description: Regional conflict in the Gulf and the global capital realignment
-img: assets/img/Andersen.png
+description: (Business Insights) Regional conflict in the Gulf and the global capital realignment
+img:
 redirect: https://anderseninstitute.org/regional-conflict-in-the-gulf-and-the-global-capital-realignment
-importance: 1
-category: notes
+importance: 298
+category: Andersen
 related_publications: true
 img: 
 ---
