@@ -443,7 +443,7 @@ ninja.data = [{
               window.location.href = "/projects/31_project/";
             },},{id: "projects-oct-2020",
           title: 'Oct 2020',
-          description: "Global connectedness and market power make firms more resilient to domestic COVID-19 shocks",
+          description: "(Column) Global connectedness and market power make firms more resilient to domestic COVID-19 shocks",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
             },},{id: "projects-apr-2024",
