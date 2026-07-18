@@ -448,7 +448,7 @@ ninja.data = [{
               window.location.href = "/projects/3_project/";
             },},{id: "projects-apr-2024",
           title: 'Apr 2024',
-          description: "The (real) weight of words",
+          description: "(Poole Thought Leadership) The real weight of words",
           section: "Projects",handler: () => {
               window.location.href = "/projects/4_project/";
             },},{id: "projects-feb-2024",
