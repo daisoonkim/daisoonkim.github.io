@@ -6,4 +6,5 @@ redirect: https://docs.google.com/document/d/17IpSaw4728p1AIdR4xQkoCdyv3M_TKXhiI
 importance: 3
 category: columns
 related_publications: true
+img: 
 ---
