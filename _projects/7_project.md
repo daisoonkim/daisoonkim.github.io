@@ -6,6 +6,7 @@ redirect: https://www.marketwatch.com/story/wall-street-keeps-its-ai-stock-picki
 importance: 1
 category: columns
 related_publications: true
+img: 
 ---
 
 
