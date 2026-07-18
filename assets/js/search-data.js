@@ -453,7 +453,7 @@ ninja.data = [{
               window.location.href = "/projects/4_project/";
             },},{id: "projects-feb-2024",
           title: 'Feb 2024',
-          description: "Economic sanctions; Lessons from the Russia-Ukraine conflict",
+          description: "(Poole Thought Leadership) Economic sanctions; Lessons from the Russia-Ukraine conflict",
           section: "Projects",handler: () => {
               window.location.href = "/projects/5_project/";
             },},{id: "projects-jun-2026",
