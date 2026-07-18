@@ -433,7 +433,7 @@ ninja.data = [{
               window.location.href = "/projects/21_project/";
             },},{id: "projects-oct-2024",
           title: 'Oct 2024',
-          description: "International trade and macroeconomic dynamics with sanctions",
+          description: "(Column) International trade and macroeconomic dynamics with sanctions",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
             },},{id: "projects-apr-2023",
