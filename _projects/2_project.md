@@ -1,10 +1,10 @@
 ---
 layout: page
 title: Oct 2024
-description: International trade and macroeconomic dynamics with sanctions
+description: (Column) International trade and macroeconomic dynamics with sanctions
 redirect: https://cepr.org/voxeu/columns/international-trade-and-macroeconomic-dynamics-sanctions
-importance: 2
-category: columns
+importance: 298
+category: VoxEU
 related_publications: true
 img: 
 ---
