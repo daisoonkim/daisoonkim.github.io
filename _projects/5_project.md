@@ -6,4 +6,5 @@ redirect: https://poole.ncsu.edu/thought-leadership/article/economic-sanctions-l
 importance: 5
 category: columns
 related_publications: true
+img: 
 ---
