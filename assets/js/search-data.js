@@ -468,7 +468,7 @@ ninja.data = [{
               window.location.href = "/projects/7_project/";
             },},{id: "projects-jun-2026",
           title: 'Jun 2026',
-          description: "AI financial advisors are blind to market opportunity",
+          description: "(The Arc Blog) AI financial advisors are blind to market opportunity",
           section: "Projects",handler: () => {
               window.location.href = "/projects/8_project/";
             },},{id: "teachings-data-science-fundamentals",
