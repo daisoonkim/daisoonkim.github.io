@@ -6,4 +6,5 @@ redirect: https://poole.ncsu.edu/thought-leadership/article/the-real-weight-of-w
 importance: 5
 category: columns
 related_publications: true
+img: 
 ---
