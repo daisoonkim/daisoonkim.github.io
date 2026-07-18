@@ -7,4 +7,5 @@ redirect: https://anderseninstitute.org/regional-conflict-in-the-gulf-and-the-gl
 importance: 1
 category: notes
 related_publications: true
+img: 
 ---
