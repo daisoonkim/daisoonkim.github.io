@@ -438,7 +438,7 @@ ninja.data = [{
               window.location.href = "/projects/2_project/";
             },},{id: "projects-apr-2023",
           title: 'Apr 2023',
-          description: "Covid-19 crisis and shifts in the corporate competitive landscape; Comparisons with previous economic crises",
+          description: "(KIEP World Economy Brief) Covid-19 crisis and shifts in the corporate competitive landscape; Comparisons with previous economic crises",
           section: "Projects",handler: () => {
               window.location.href = "/projects/31_project/";
             },},{id: "projects-oct-2020",
