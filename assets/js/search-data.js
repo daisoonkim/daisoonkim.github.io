@@ -423,7 +423,7 @@ ninja.data = [{
               window.location.href = "/projects/11_project/";
             },},{id: "projects-mar-2025",
           title: 'Mar 2025',
-          description: "The effects of parental leave policy reforms on fertility and gender gaps",
+          description: "(Column) The effects of parental leave policy reforms on fertility and gender gaps",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
             },},{id: "projects-jun-2026",
