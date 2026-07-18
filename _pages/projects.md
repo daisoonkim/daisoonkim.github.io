@@ -5,7 +5,7 @@ permalink: /projects/
 description: News Articles, Columns, Notes, Briefs
 nav: true
 nav_order: 4
-display_categories: [columns, notes]
+display_categories: [News, Andersen, VoxEU, Others]
 horizontal: false
 ---
 
