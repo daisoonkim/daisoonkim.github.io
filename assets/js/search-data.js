@@ -458,7 +458,7 @@ ninja.data = [{
               window.location.href = "/projects/5_project/";
             },},{id: "projects-jun-2026",
           title: 'Jun 2026',
-          description: "An era of weaponized interdependence begins; What the hormuz shock taught markets and policymakers",
+          description: "(The Arc Blog) An era of weaponized interdependence begins; What the hormuz shock taught markets and policymakers",
           section: "Projects",handler: () => {
               window.location.href = "/projects/6_project/";
             },},{id: "projects-jun-2026",
