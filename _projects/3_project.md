@@ -6,4 +6,5 @@ redirect: https://cepr.org/voxeu/columns/global-connectedness-and-market-power-m
 importance: 2
 category: columns
 related_publications: true
+img: 
 ---
