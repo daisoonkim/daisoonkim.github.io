@@ -426,6 +426,11 @@ ninja.data = [{
           description: "(Market Watch) Most robo-advisers will never profit from Wall Street’s AI-generated stock picks",
           section: "Projects",handler: () => {
               window.location.href = "/projects/098project/";
+            },},{id: "projects-may-2025",
+          title: 'May 2025',
+          description: "(Edaily) Complete U.S.-China decoupling impossible... Xi is more resilient than Trump",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/099_project/";
             },},{id: "projects-jul-2026",
           title: 'Jul 2026',
           description: "(The Arc Blog) The hidden choices behind emerging-market ETFs",
@@ -476,11 +481,6 @@ ninja.data = [{
           description: "(KIEP World Economy Brief) Covid-19 crisis and shifts in the corporate competitive landscape; Comparisons with previous economic crises",
           section: "Projects",handler: () => {
               window.location.href = "/projects/499_project/";
-            },},{id: "projects-may-2025",
-          title: 'May 2025',
-          description: "(Edaily) Complete U.S.-China decoupling impossible... Xi is more resilient than Trump",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/99_project/";
             },},{id: "teachings-data-science-fundamentals",
           title: 'Data Science Fundamentals',
           description: "This course covers the foundational aspects of data science, including data collection, cleaning, analysis, and visualization. Students will learn practical skills for working with real-world datasets.",
