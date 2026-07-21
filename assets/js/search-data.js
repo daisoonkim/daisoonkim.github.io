@@ -466,16 +466,16 @@ ninja.data = [{
           description: "(KIEP World Economy Brief) Covid-19 crisis and shifts in the corporate competitive landscape; Comparisons with previous economic crises",
           section: "Projects",handler: () => {
               window.location.href = "/projects/499_project/";
-            },},{id: "projects-jun-2026",
-          title: 'Jun 2026',
-          description: "(Market Watch) Most robo-advisers will never profit from Wall Street’s AI-generated stock picks",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/7_project/";
             },},{id: "projects-jul-2026",
           title: 'Jul 2026',
           description: "(Market Watch) South Korean stocks weren&#39;t a big deal in your emerging-markets fund. Artificial intelligence changed that.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/97_proejct/";
+            },},{id: "projects-jun-2026",
+          title: 'Jun 2026',
+          description: "(Market Watch) Most robo-advisers will never profit from Wall Street’s AI-generated stock picks",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/98project/";
             },},{id: "projects-may-2025",
           title: 'May 2025',
           description: "(Edaily) Complete U.S.-China decoupling impossible... Xi is more resilient than Trump",
