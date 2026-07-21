@@ -440,7 +440,7 @@ ninja.data = [{
           title: 'Oct 2024',
           description: "(Column) International trade and macroeconomic dynamics with sanctions",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/2_project/";
+              window.location.href = "/projects/298_project/";
             },},{id: "projects-apr-2023",
           title: 'Apr 2023',
           description: "(KIEP World Economy Brief) Covid-19 crisis and shifts in the corporate competitive landscape; Comparisons with previous economic crises",
