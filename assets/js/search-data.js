@@ -450,7 +450,7 @@ ninja.data = [{
           title: 'Apr 2024',
           description: "(Poole Thought Leadership) The real weight of words",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/498_project/";
+              window.location.href = "/projects/497_project/";
             },},{id: "projects-apr-2023",
           title: 'Apr 2023',
           description: "(KIEP World Economy Brief) Covid-19 crisis and shifts in the corporate competitive landscape; Comparisons with previous economic crises",
