@@ -451,16 +451,16 @@ ninja.data = [{
           description: "(Poole Thought Leadership) The real weight of words",
           section: "Projects",handler: () => {
               window.location.href = "/projects/497_project/";
+            },},{id: "projects-feb-2024",
+          title: 'Feb 2024',
+          description: "(Poole Thought Leadership) Economic sanctions; Lessons from the Russia-Ukraine conflict",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/498_project/";
             },},{id: "projects-apr-2023",
           title: 'Apr 2023',
           description: "(KIEP World Economy Brief) Covid-19 crisis and shifts in the corporate competitive landscape; Comparisons with previous economic crises",
           section: "Projects",handler: () => {
               window.location.href = "/projects/499_project/";
-            },},{id: "projects-feb-2024",
-          title: 'Feb 2024',
-          description: "(Poole Thought Leadership) Economic sanctions; Lessons from the Russia-Ukraine conflict",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/5_project/";
             },},{id: "projects-jun-2026",
           title: 'Jun 2026',
           description: "(The Arc Blog) An era of weaponized interdependence begins; What the hormuz shock taught markets and policymakers",
