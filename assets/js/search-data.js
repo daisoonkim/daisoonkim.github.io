@@ -423,6 +423,11 @@ ninja.data = [{
               window.location.href = "/projects/196_project/";
             },},{id: "projects-jun-2026",
           title: 'Jun 2026',
+          description: "(The Arc Blog) An era of weaponized interdependence begins; What the hormuz shock taught markets and policymakers",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/197_project/";
+            },},{id: "projects-jun-2026",
+          title: 'Jun 2026',
           description: "(Business Insights) Regional conflict in the Gulf and the global capital realignment",
           section: "Projects",handler: () => {
               window.location.href = "/projects/198_project/";
@@ -461,11 +466,6 @@ ninja.data = [{
           description: "(KIEP World Economy Brief) Covid-19 crisis and shifts in the corporate competitive landscape; Comparisons with previous economic crises",
           section: "Projects",handler: () => {
               window.location.href = "/projects/499_project/";
-            },},{id: "projects-jun-2026",
-          title: 'Jun 2026',
-          description: "(The Arc Blog) An era of weaponized interdependence begins; What the hormuz shock taught markets and policymakers",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/6_project/";
             },},{id: "projects-jul-2026",
           title: 'Jul 2026',
           description: "(Market Watch) South Korean stocks weren&#39;t a big deal in your emerging-markets fund. Artificial intelligence changed that.",
