@@ -445,7 +445,7 @@ ninja.data = [{
           title: 'Oct 2020',
           description: "(Column) Global connectedness and market power make firms more resilient to domestic COVID-19 shocks",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/3_project/";
+              window.location.href = "/projects/299_project/";
             },},{id: "projects-apr-2024",
           title: 'Apr 2024',
           description: "(Poole Thought Leadership) The real weight of words",
