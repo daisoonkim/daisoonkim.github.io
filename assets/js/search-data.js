@@ -441,16 +441,16 @@ ninja.data = [{
           description: "(Column) International trade and macroeconomic dynamics with sanctions",
           section: "Projects",handler: () => {
               window.location.href = "/projects/298_project/";
-            },},{id: "projects-apr-2023",
-          title: 'Apr 2023',
-          description: "(KIEP World Economy Brief) Covid-19 crisis and shifts in the corporate competitive landscape; Comparisons with previous economic crises",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/31_project/";
             },},{id: "projects-oct-2020",
           title: 'Oct 2020',
           description: "(Column) Global connectedness and market power make firms more resilient to domestic COVID-19 shocks",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
+            },},{id: "projects-apr-2023",
+          title: 'Apr 2023',
+          description: "(KIEP World Economy Brief) Covid-19 crisis and shifts in the corporate competitive landscape; Comparisons with previous economic crises",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/499_project/";
             },},{id: "projects-apr-2024",
           title: 'Apr 2024',
           description: "(Poole Thought Leadership) The real weight of words",
