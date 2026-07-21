@@ -446,16 +446,16 @@ ninja.data = [{
           description: "(Column) Global connectedness and market power make firms more resilient to domestic COVID-19 shocks",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
+            },},{id: "projects-apr-2024",
+          title: 'Apr 2024',
+          description: "(Poole Thought Leadership) The real weight of words",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/498_project/";
             },},{id: "projects-apr-2023",
           title: 'Apr 2023',
           description: "(KIEP World Economy Brief) Covid-19 crisis and shifts in the corporate competitive landscape; Comparisons with previous economic crises",
           section: "Projects",handler: () => {
               window.location.href = "/projects/499_project/";
-            },},{id: "projects-apr-2024",
-          title: 'Apr 2024',
-          description: "(Poole Thought Leadership) The real weight of words",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/4_project/";
             },},{id: "projects-feb-2024",
           title: 'Feb 2024',
           description: "(Poole Thought Leadership) Economic sanctions; Lessons from the Russia-Ukraine conflict",
