@@ -423,6 +423,11 @@ ninja.data = [{
               window.location.href = "/projects/196_project/";
             },},{id: "projects-jun-2026",
           title: 'Jun 2026',
+          description: "(Business Insights) Regional conflict in the Gulf and the global capital realignment",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/198_project/";
+            },},{id: "projects-jun-2026",
+          title: 'Jun 2026',
           description: "(The Arc Blog) AI financial advisors are blind to market opportunity",
           section: "Projects",handler: () => {
               window.location.href = "/projects/199_project/";
@@ -431,11 +436,6 @@ ninja.data = [{
           description: "(Column) The effects of parental leave policy reforms on fertility and gender gaps",
           section: "Projects",handler: () => {
               window.location.href = "/projects/297_project/";
-            },},{id: "projects-jun-2026",
-          title: 'Jun 2026',
-          description: "(Business Insights) Regional conflict in the Gulf and the global capital realignment",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/298_project/";
             },},{id: "projects-oct-2024",
           title: 'Oct 2024',
           description: "(Column) International trade and macroeconomic dynamics with sanctions",
