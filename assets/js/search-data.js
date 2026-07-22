@@ -418,7 +418,7 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "projects-jul-2026",
           title: 'Jul 2026',
-          description: "(Market Watch) South Korean stocks weren&#39;t a big deal in your emerging-markets fund. Artificial intelligence changed that.",
+          description: "(Market Watch) Is your index fund an accidental bet on AI? These two massive ETFs show why it might be.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/097_proejct/";
             },},{id: "projects-jun-2026",
