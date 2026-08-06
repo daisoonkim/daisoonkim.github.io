@@ -3,12 +3,14 @@
 @import url('https://fonts.googleapis.com/css2?family=Source+Sans+3:wght@300;400;500;600&display=swap');
 
 /* Base typography */
-body {
+body, h5, h6, .abstract {
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
   letter-spacing: -0.01em;
-  /*
-  font-family: 'Source Sans 3', -apple-system, BlinkMacSystemFont, "Segoe UI", Arial, sans-serif;
-  font-weight: 400;*/
+  /* font-family: 'Source Sans 3', -apple-system, BlinkMacSystemFont, "Segoe UI", Arial, sans-serif;*/
+  font-weight: 400;
+}
+.abstract {
+   font-family: 'Source Sans 3', -apple-system, BlinkMacSystemFont, "Segoe UI", Arial, sans-serif;
 }
 
 /* Naviation */
@@ -25,7 +27,6 @@ body {
   font-weight: 500;
   letter-spacing: 0.1em;   key feature */
   font-size: 14px;
-  text-transform: uppercase;
 }
 .navbar {
   padding-top: 14px;
@@ -33,7 +34,7 @@ body {
 }
 .category-tag, .kicker {
   font-family: 'Inter', sans-serif;
-  font-weight: 700;
+  font-weight: 600;
   text-transform: uppercase;
   letter-spacing: 0.05em;
   margin-bottom: 0.25rem;
@@ -47,11 +48,6 @@ h1, h2, h3, h4, .headline {
   /*font-family: 'Montserrat', sans-serif;
   font-weight: 500;
   letter-spacing: 0.1em;    */
-}
-
-h5, h6 {
-  font-family: 'Source Sans 3', -apple-system, BlinkMacSystemFont, "Segoe UI", Arial, sans-serif;
-  font-weight: 400;
 }
 
 h1 { font-size: 26px; }
