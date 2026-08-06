@@ -32,6 +32,11 @@ body, h5, h6, .abstract {
   padding-top: 14px;
   padding-bottom: 14px;
 }
+
+header .post-description, .post-header .post-description {
+  color: #d90000; /* Bloomberg Red */
+}
+
 h4, .category-tag, .kicker {
   font-family: 'Inter', sans-serif;
   font-weight: 500;
