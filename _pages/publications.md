@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: PUBLICATIONS
-description:  "<h4>JME (x2), JIE (x2), JoEG, IMF ER, JEDC (x2)</h4>"
+description:  JME (x2), JIE (x2), JoEG, IMF ER, JEDC (x2)
 nav: false
 nav_order: 2
 bib_search: false
