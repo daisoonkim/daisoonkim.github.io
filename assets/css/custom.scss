@@ -32,16 +32,17 @@ body, h5, h6, .abstract {
   padding-top: 14px;
   padding-bottom: 14px;
 }
-.category-tag, .kicker {
+h4, .category-tag, .kicker {
   font-family: 'Inter', sans-serif;
-  font-weight: 600;
+  font-weight: 500;
   text-transform: uppercase;
   letter-spacing: 0.05em;
+  color: #d90000; /* Bloomberg Red */
   margin-bottom: 0.25rem;
 }
 
 /* Headings */
-h1, h2, h3, h4, .headline {  
+h1, h2, h3, .headline {  
   font-family: 'Inter', -apple-system, BlinkMacSystemFont, "Helvetica Neue", sans-serif;
   font-weight: 600; 
   letter-spacing: -0.035em; 
