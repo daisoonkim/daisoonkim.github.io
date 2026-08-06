@@ -11,7 +11,7 @@ body {
 /* Naviation */
 .navbar-nav .nav-link {
   font-family: 'Inter', -apple-system, sans-serif;
-  font-weight: 700;
+  font-weight: 600;
   letter-spacing: -0.02em;
 }
 .navbar-brand {
@@ -25,10 +25,22 @@ body {
   padding-top: 14px;
   padding-bottom: 14px;
 }
+.category-tag, .kicker {
+  font-family: 'Inter', sans-serif;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  margin-bottom: 0.25rem;
+}
+
 /* Headings */
-h1, h2, h3, h4 {  font-family: 'Montserrat', sans-serif;
+h1, h2, h3, h4, .headline {  
+  font-family: 'Inter', -apple-system, BlinkMacSystemFont, "Helvetica Neue", sans-serif;
+  font-weight: 600; 
+  letter-spacing: -0.035em; 
+  /*font-family: 'Montserrat', sans-serif;
   font-weight: 500;
-  letter-spacing: 0.1em;   /* key feature */
+  letter-spacing: 0.1em;    */
 }
 
 h5, h6 {
