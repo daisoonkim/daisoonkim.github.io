@@ -37,7 +37,7 @@ header .post-description, .post-header .post-description {
   color: #d90000; /* Bloomberg Red */
 }
 
-h4, .category-tag, .kicker {
+h4, h3, .category-tag, .kicker {
   font-family: 'Inter', sans-serif;
   font-weight: 500;
   text-transform: uppercase;
@@ -47,7 +47,7 @@ h4, .category-tag, .kicker {
 }
 
 /* Headings */
-h1, h2, h3, .headline {  
+h1, h2, .headline {  
   font-family: 'Inter', -apple-system, BlinkMacSystemFont, "Helvetica Neue", sans-serif;
   font-weight: 600; 
   letter-spacing: -0.035em; 
@@ -58,7 +58,7 @@ h1, h2, h3, .headline {
 
 h1 { font-size: 22px; }
 h2 { font-size: 22px; }
-h3 { font-size: 18px; }
+h3 { font-size: 16px; }
 h4 { font-size: 16px; }
 
 /* CV  size */
