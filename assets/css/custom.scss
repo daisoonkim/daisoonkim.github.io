@@ -12,7 +12,9 @@ body, h5, h6, .abstract {
 .abstract {
    font-family: 'Source Sans 3', -apple-system, BlinkMacSystemFont, "Segoe UI", Arial, sans-serif;
 }
-
+.title {
+    font-weight: 500 !important;
+}
 /* Naviation */
 .navbar-nav .nav-link {
   font-family: 'Inter', -apple-system, sans-serif;
