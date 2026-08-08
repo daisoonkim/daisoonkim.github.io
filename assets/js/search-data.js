@@ -431,6 +431,11 @@ ninja.data = [{
           description: "(Edaily) Complete U.S.-China decoupling impossible... Xi is more resilient than Trump",
           section: "Projects",handler: () => {
               window.location.href = "/projects/099_project/";
+            },},{id: "projects-aug-2026",
+          title: 'Aug 2026',
+          description: "(The Arc Blog) Ending the boom-bust memory chip cycle",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/195_project/";
             },},{id: "projects-jul-2026",
           title: 'Jul 2026',
           description: "(The Arc Blog) The hidden choices behind emerging-market ETFs",
