@@ -64,6 +64,15 @@ layout: default
 
     <!-- Selected papers -->
     <h4>
+      Selected Working Projects
+    </h4>
+    <div class="publications">
+      {% bibliography -f projects -q @*[selected=true]* %}
+    </div>
+
+    <br>
+
+    <h4>
       Selected R&Rs
     </h4>
     <div class="publications">
