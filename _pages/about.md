@@ -28,7 +28,7 @@ Scholar, Andersen Institute for Finance and Economics <br>
 Assistant Professor, NC State University <i>(on leave, 2026–)</i>
 
 Email: [kim.daisoon.kr@gmail.com](mailto:kim.daisoon.kr@gmail.com) <br> 
-Focus: International Economics, Macroeconomics, Geoeconomics
+Focus: International Finance, Macroeconomics, Geoeconomics
 
 <div style="margin-top:8px;">
   <a href="https://drive.google.com/file/d/1isPILSPRJgI4W-YEr3EogKauHqYwe98S/view" class="cv-btn">Academic CV</a>
