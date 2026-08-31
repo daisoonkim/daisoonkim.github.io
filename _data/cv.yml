@@ -5,7 +5,7 @@ cv:
   location: Washington, DC
   image: ""
   summary: >
-    PhD economist and researcher specializing in structural change, artificial intelligence, and global economic systems. Combines structural modeling and novel data infrastructure to analyze how transformative technologies reshape labor, productivity, and market dynamics. Proven track record of leading funded research programs (e.g., NSF co-PI, 459K; Caterpillar PI, 86K), publishing in top journals (e.g., JME, JIE), and delivering actionable insights for industry and global policymakers.
+    PhD economist and researcher specializing in structural change, artificial intelligence, and global economic systems. Combines structural modeling and novel data infrastructure to analyze how transformative technologies reshape labor, productivity, and market dynamics. Proven track record of leading funded research programs (e.g., NSF co-PI, 459K, Caterpillar PI, 86K), publishing in top journals (e.g., JME, JIE), and delivering actionable insights for industry and global policymakers.
     
   social_networks:
     - network: X
@@ -92,20 +92,20 @@ cv:
       - name: Chokepoints and the Transatlantic Gap 
         summary: with Alessandro Rebucci (in preparation for Economic Policy - Papers on European and Global Issues)
         highlights:
-          - International Economics; Macroeconomics; Geoeconomics.
-          - Geopolitical Risk; Economic Security; Economic Chokepoints; Global Value Chains; Weaponized Interdependence.
+          - International Economics, Macroeconomics, Geoeconomics
+          - Geopolitical Risk, Economic Security, Economic Chokepoints, Global Value Chains, Weaponized Interdependence
         start_date: 2026-06
-      - name: Contamination, Bias, and Correction in Text-Based Measurement.
+      - name: Contamination, Bias, and Correction in Text-Based Measurement
         summary: with Nahyeon Bak & Hanbat Jeong
         highlights:
-          - Econometrics; Economics of AI.
-          - Text-Based Analysis; Machine-Generated Regressor; State-Dependent Measurement Error
+          - Econometrics, Economics of AI
+          - Text-Based Analysis, Machine-Generated Regressor, State-Dependent Measurement Error
         start_date: 2025-12
       - name: Geopolitical Sanctions Backfire: Theory and Evidence from European Firms
-        summary: with Sebnem Kalemli-Özcan & Jun Hee Kwak
+        summary: with Sebnem Kalemli-Ozcan, Jun Hee Kwak
         highlights:
-          - International Economics; Geoeconomics.
-          - Multi-product Firm; Sanctions; Trade Conflicts.
+          - International Economics, Geoeconomics
+          - Multi-product Firm, Sanctions, Trade Conflicts
         start_date: 2025-03
         
     Publications:
