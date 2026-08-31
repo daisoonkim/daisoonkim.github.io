@@ -88,6 +88,26 @@ cv:
         icon: fa-solid fa-tag
         keywords: "Complex Data Integration, Panel Data Construction, Unstructured Data"
 
+    Projects:
+      - name: Chokepoints and the Transatlantic Gap 
+        summary: with Alessandro Rebucci (in preparation for Economic Policy: Papers on European and Global Issues)
+        highlights:
+          - International Economics; Macroeconomics; Geoeconomics.
+          - Geopolitical Risk; Economic Security; Economic Chokepoints; Global Value Chains; Weaponized Interdependence.
+        start_date: 2026-06
+      - name: Contamination, Bias, and Correction in Text-Based Measurement.
+        summary: with Nahyeon Bak & Hanbat Jeong
+        highlights:
+          - Econometrics; Economics of AI.
+          - Text-Based Analysis; Machine-Generated Regressor; State-Dependent Measurement Error
+        start_date: 2025-12
+      - name: Geopolitical Sanctions Backfire: Theory and Evidence from European Firms
+        summary: with Sebnem Kalemli-Özcan & Jun Hee Kwak
+        highlights:
+          - International Economics; Geoeconomics.
+          - Multi-product Firm; Sanctions; Trade Conflicts.
+        start_date: 2025-03
+        
     Publications:
       - title: Multinational Investment Activity under Policy Uncertainty in Host and Competing Countries
         authors:
