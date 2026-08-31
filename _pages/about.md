@@ -31,7 +31,7 @@ Email: [kim.daisoon.kr@gmail.com](mailto:kim.daisoon.kr@gmail.com) <br>
 Focus: International Finance, Macroeconomics, Geoeconomics
 
 <div style="margin-top:8px;">
-  <a href="https://drive.google.com/file/d/1isPILSPRJgI4W-YEr3EogKauHqYwe98S/view" class="cv-btn">Academic CV</a>
+  <a href="Kim, Daisoon. Academic CV 2026" class="cv-btn">Academic CV</a>
   <a href="/cv/" class="cv-btn">Resume</a>
 </div>
 
