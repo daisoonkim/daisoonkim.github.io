@@ -109,6 +109,13 @@ cv:
         start_date: 2025-03
         
     Publications:
+      - title: Aggregate Fluctuations from Firm Comovement
+        authors:
+          - Nahyeon Bak        
+          - Daisoon Kim
+        publisher: Journal of Monetary Economics
+        releaseDate: Accepted
+        
       - title: Multinational Investment Activity under Policy Uncertainty in Host and Competing Countries
         authors:
           - Daisoon Kim
