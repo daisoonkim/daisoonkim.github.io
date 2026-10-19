@@ -8,10 +8,6 @@ nav_order: 2
 bib_search: false
 ---
 
-<!-- _pages/publications.md -->
-
-<!-- Bibsearch Feature -->
-
 {% include bib_search.liquid %}
 
 <div class="publications">
