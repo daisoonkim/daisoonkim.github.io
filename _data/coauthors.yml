@@ -1,3 +1,31 @@
+"cocco":
+  - firstname: ["Alessandro", "A."]
+    url: https://louisville.edu/directory/alessandro_cocco
+
+"natalucci":
+  - firstname: ["Fabio", "F."]
+    url: https://anderseninstitute.org/fabio/
+
+"anderson":
+  - firstname: ["Haelim", "H."]
+    url: https://sites.google.com/site/haelimparkanderson/
+
+"ahmed":
+  - firstname: ["Rashad", "R."]
+    url: https://sites.google.com/view/rashad-ahmed
+
+"torres":
+  - firstname: ["Craig", "C."]
+    url: https://anderseninstitute.org/craig-torres/
+
+"calomiris":
+  - firstname: ["Charles", "Charles W.", "C. W."]
+    url: https://anderseninstitute.org/charles-calomiris/
+    
+"clouse":
+  - firstname: ["Jim", "J."]
+    url: https://anderseninstitute.org/jim-clouse/
+    
 "davis":
   - firstname: ["Steven", "Steven J.", "S. J."]
     url: https://stevenjdavis.com/
