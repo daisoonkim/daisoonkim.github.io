@@ -2,7 +2,7 @@
 layout: page
 permalink: /workingpapers/
 title: WORKING PAPERS
-description: R&R in JMCB
+description: R&R in JMCB, EP
 nav: false
 nav_order: 3
 ---
